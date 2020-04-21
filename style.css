@@ -27,7 +27,8 @@ a{
   color: inherit;
   text-decoration:underline;
   text-decoration-color: #8ce5f5;
-  target:"_blank";
+  display: block;
+  width:33ch;
 }
 
 a:hover{

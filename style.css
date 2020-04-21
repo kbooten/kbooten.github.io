@@ -27,6 +27,7 @@ a{
   color: inherit;
   text-decoration:underline;
   text-decoration-color: #8ce5f5;
+  target:"_blank";
 }
 
 a:hover{

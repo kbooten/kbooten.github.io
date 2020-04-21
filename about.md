@@ -1,0 +1,20 @@
+Now: Neukom Postdoctoral Fellow, Dartmouth College  
+  
+Next: Assistant Professor, Dept. of English, UConn  
+  
+Ph.D., UC Berkeley
+  
+2016 Spencer/NAEd Dissertation Fellow  
+  
+M.F.A., University of Michigan, Ann Arbor  
+  
+A.B., Princeton University  
+  
+  
+  
+Researching digital literacies  
+  
+&
+  
+Computer generated & mediated literature  
+

@@ -48,7 +48,7 @@ Maps](https://kylebooten.files.wordpress.com/2017/01/laminations_fence.pdf)([FEN
 \#32](https://reader.exacteditions.com/issues/62336/spread/1)) -->
 
 * Partially computer-generated long poem excerpted
-    - in Boston Review(https://store.bostonreview.net/backissues/what-nature){target="_blank"}
+    - in [Boston Review](https://store.bostonreview.net/backissues/what-nature){target="_blank"}
     - in [Datableed](https://www.datableedzine.com/kyle-booten-issue-11){target="_blank"}
 
 * [Patterns of

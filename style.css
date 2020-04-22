@@ -10,6 +10,10 @@ h1{
   color:#575757;
 }
 
+/*ul{
+  width:95%;
+}
+*/
 
 div{
   width:60%;
@@ -18,11 +22,15 @@ div{
   margin: 0 auto;
 }
 
-
 li{
-  padding: calc(8px + 0.2vw)
+  margin-top:calc(14px + 0.2vw);
+  margin-bottom:calc(14px + 0.2vw);
 }
-
+/*li{
+  padding-top: calc(8px + 0.2vw);
+  padding-bottom: calc(8px + 0.2vw)
+}
+*/
 a{
   color: inherit;
   text-decoration:underline;

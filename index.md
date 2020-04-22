@@ -1,39 +1,27 @@
 
 * [In the fall: Nokturno digital
 residence](https://nokturno.fi/en/news/our-poet-in-digital-residence-2020-is-kyle-booten){target="_blank"}
-
 * Essay on creative Turing Tests, with Dan Rockmore, forthcoming in
 electronic book review
-
 * [Essay on/with/against computational sentiment analysis in
 TENTACULAR](https://www.tentacularmag.com/issue-4a/kyle-booten){target="_blank"}
-
 * [Response essay to David Jhave Johnston’s
 RERITES (ANTEISM)](https://www.anteism.com/shop/rerites-raw-output-responses-david-jhave-johnston){target="_blank"}
-
 * [Five poems, including 3 collaborations with crowdworkers (LANA TURNER \#11)](http://www.lanaturnerjournal.com/v/vspfiles/downloadables/Lana_Turner_No_11.pdf#page=242){target="_blank"}
-
 * Papers in ICCC2019:
     * [“Toward Digital *Progymnasmata*“](http://computationalcreativity.net/iccc2019/assets/iccc_proceedings_2019.pdf#page=15){target="_blank"}
     * [“Fragile Pulse: A Meditation App”](http://computationalcreativity.net/iccc2019/assets/iccc_proceedings_2019.pdf#page=368){target="_blank"}
-
 * [Chapter in \#IDENTITY: HASHTAGGING RACE, GENDER, SEXUALITY, AND
 NATION (University of Michigan
 Press)](https://www.press.umich.edu/9697147/){target="_blank"}
-
 * “How Do Computers Read?” (Panel, MLA2019, Chicago)
-
 * [Two minimal (&lt;2Kb) interfaces (TAPER
 \#2)](http://taper.badquar.to/2/){target="_blank"}
-
 * Partially computer-generated long poem excerpted
     - in [BOSTON REVIEW](https://store.bostonreview.net/backissues/what-nature){target="_blank"}
     - in [DATABLEED](https://www.datableedzine.com/kyle-booten-issue-11){target="_blank"}
-
 * [Patterns of
 wisdom (NAACL 2016, Best Short Paper Runner-Up)](https://kylebooten.files.wordpress.com/2017/01/naacl_short_paper_2016.pdf){target="_blank"}
-
-
 <!-- * [Two small
 poems, one with autocompletions (WESTERN HUMANITIES REVIEW)](http://www.westernhumanitiesreview.com/summer17/kyle-booten/){target="_blank"} -->
 

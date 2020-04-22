@@ -26,8 +26,8 @@ Press)](https://www.press.umich.edu/9697147/){target="_blank"}
 * [Two minimal (&lt;2Kb) interfaces (TAPER
 \#2)](http://taper.badquar.to/2/){target="_blank"}
 
-* [Two small
-poems, one with autocompletions (WESTERN HUMANITIES REVIEW)](http://www.westernhumanitiesreview.com/summer17/kyle-booten/){target="_blank"}
+<!-- * [Two small
+poems, one with autocompletions (WESTERN HUMANITIES REVIEW)](http://www.westernhumanitiesreview.com/summer17/kyle-booten/){target="_blank"} -->
 
 <!-- * [Partially computer-generated
 verse](https://kylebooten.files.wordpress.com/2018/07/kbooten_what_nature_final.pdf "kbooten_what_nature_final")

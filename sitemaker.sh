@@ -10,6 +10,8 @@ do
     filename="${f%.*}"
     echo "Converting $f to $filename.html"
     cat map.md $f > temp.md
+    ## make current page special
+    sed -i.back "s#]($filename.html#*]($filename.html#g" temp.md
     pandoc temp.md -s -o $filename.html
   fi
 done

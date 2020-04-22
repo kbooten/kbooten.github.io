@@ -58,10 +58,11 @@ h5>a:hover{
 
 h6{
   float:right;
-  font-size: calc(6px + 0.3vw);
+  font-size: calc(10px + 0.12vw);
   color: #cccccc;
   font-style:oblique;
 }
+
 
 h6>a{
   color:inherit;

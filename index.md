@@ -3,7 +3,7 @@
 residence](https://nokturno.fi/en/news/our-poet-in-digital-residence-2020-is-kyle-booten){target="_blank"}
 
 * Essay on creative Turing Tests, with Dan Rockmore, forthcoming in
-*electronic book review*
+electronic book review
 
 * [Essay on/with/against computational sentiment analysis in
 TENTACULAR](https://www.tentacularmag.com/issue-4a/kyle-booten){target="_blank"}
@@ -26,6 +26,14 @@ Press)](https://www.press.umich.edu/9697147/){target="_blank"}
 * [Two minimal (&lt;2Kb) interfaces (TAPER
 \#2)](http://taper.badquar.to/2/){target="_blank"}
 
+* Partially computer-generated long poem excerpted
+    - in [BOSTON REVIEW](https://store.bostonreview.net/backissues/what-nature){target="_blank"}
+    - in [DATABLEED](https://www.datableedzine.com/kyle-booten-issue-11){target="_blank"}
+
+* [Patterns of
+wisdom (NAACL 2016, Best Short Paper Runner-Up)](https://kylebooten.files.wordpress.com/2017/01/naacl_short_paper_2016.pdf){target="_blank"}
+
+
 <!-- * [Two small
 poems, one with autocompletions (WESTERN HUMANITIES REVIEW)](http://www.westernhumanitiesreview.com/summer17/kyle-booten/){target="_blank"} -->
 
@@ -47,12 +55,7 @@ CLAUDIA)
 Maps](https://kylebooten.files.wordpress.com/2017/01/laminations_fence.pdf)([FENCE
 \#32](https://reader.exacteditions.com/issues/62336/spread/1)) -->
 
-* Partially computer-generated long poem excerpted
-    - in [BOSTON REVIEW](https://store.bostonreview.net/backissues/what-nature){target="_blank"}
-    - in [DATABLEED](https://www.datableedzine.com/kyle-booten-issue-11){target="_blank"}
 
-* [Patterns of
-wisdom (NAACL 2016, Best Short Paper Runner-Up)](https://kylebooten.files.wordpress.com/2017/01/naacl_short_paper_2016.pdf){target="_blank"}
 <!-- 
 * [Metaphor and word
 vectors](https://kylebooten.files.wordpress.com/2017/01/clfl2016_draft_proceedings.pdf)

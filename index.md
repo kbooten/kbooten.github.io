@@ -31,7 +31,7 @@ Press)](https://www.fulcrum.org/epubs/zp38wf11f?locale=en#/OEBPS/DeKosnik-0021.x
     - in [DATABLEED](https://www.datableedzine.com/kyle-booten-issue-11){target="_blank"}
   
 * ["Patterns of
-Wisdom" (NAACL 2016, Best Short Paper Runner-Up)](https://kylebooten.files.wordpress.com/2017/01/naacl_short_paper_2016.pdf){target="_blank"}
+Wisdom" (NAACL 2016, Best Short Paper Runner-Up)](https://www.aclweb.org/anthology/N16-1134.pdf){target="_blank"}
   
 
 <!-- * [Two small

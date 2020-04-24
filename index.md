@@ -23,7 +23,7 @@ Press)](https://www.fulcrum.org/epubs/zp38wf11f?locale=en#/OEBPS/DeKosnik-0021.x
   
 * “How Do Computers Read?” (Panel, MLA 2019, Chicago)
   
-* [Two minimal (&lt;2Kb) interfaces in TAPER
+* [Two minimal (&lt;2KB) interfaces in TAPER
 \#2](http://taper.badquar.to/2/){target="_blank"}
   
 * Partially computer-generated long poem excerpted

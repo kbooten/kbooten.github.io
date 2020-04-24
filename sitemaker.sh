@@ -23,7 +23,8 @@ rm temp.md
 PAGES=*.html
 for p in $PAGES
 do
-  echo "Adding resources, viewport meta, div to $p, adding viewport meta, divs"
+  echo "Adding resources, viewport meta, favicon, div to $p"
+  sed -i.bak 's/\<head\>/\<head\>\<link rel="icon" type="image\/x-icon" href="favicon.ico"\>/g' $p
   sed -i.bak 's/\<head\>/\<head\>\<link rel="stylesheet" type="text\/css" href="style.css"\>/g' $p
   #sed -i.bak 's/\<head\>/\<head\>\<link href="https:\/\/fonts.googleapis.com\/css2?family=Roboto:wght@100\&display=swap" rel="stylesheet"\>/g' $p
   sed -i.bak 's/\<body\>/\<body\>\<div\>/g' $p

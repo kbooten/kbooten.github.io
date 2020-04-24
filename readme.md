@@ -8,3 +8,5 @@ A bash script automatically converts local `.md` files, injects links to the sty
 To do:
 * sometimes the centering between pages is a few pixels off, making the nav bar jump slightly between clicks.  maybe something about how `{margin:auto}` works?
 * link to old domain
+
+Favicon made with imagemagick's `plasma:` command.

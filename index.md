@@ -1,22 +1,23 @@
 
 * [In the fall: Nokturno digital
 residence](https://nokturno.fi/en/news/our-poet-in-digital-residence-2020-is-kyle-booten){target="_blank"}
-  
-* Essay on creative Turing Tests, with Dan Rockmore, forthcoming in
-electronic book review
-  
+
 * [Essay on/with/against computational sentiment analysis in
 TENTACULAR \#4](https://www.tentacularmag.com/issue-4a/kyle-booten){target="_blank"}
+
+* Essay on creative Turing Tests, with Dan Rockmore, forthcoming in
+electronic book review
+
+* Papers in ICCC 2019:
+    * ["Toward Digital *Progymnasmata*"](http://computationalcreativity.net/iccc2019/assets/iccc_proceedings_2019.pdf#page=15){target="_blank"}
+    * ["Fragile Pulse: A Meditation App"](http://computationalcreativity.net/iccc2019/assets/iccc_proceedings_2019.pdf#page=368){target="_blank"}
   
 * [Response essay to David Jhave Johnston’s
 RERITES (ANTEISM)](https://www.anteism.com/shop/rerites-raw-output-responses-david-jhave-johnston){target="_blank"}
   
 * [Five poems, including 3 collaborations with crowdworkers in LANA TURNER \#11](http://www.lanaturnerjournal.com/v/vspfiles/downloadables/Lana_Turner_No_11.pdf#page=242){target="_blank"}
   
-* Papers in ICCC 2019:
-    * ["Toward Digital *Progymnasmata*"](http://computationalcreativity.net/iccc2019/assets/iccc_proceedings_2019.pdf#page=15){target="_blank"}
-    * ["Fragile Pulse: A Meditation App"](http://computationalcreativity.net/iccc2019/assets/iccc_proceedings_2019.pdf#page=368){target="_blank"}
-  
+
 * ["Hashtag Rhetoric," chapter in \#IDENTITY: HASHTAGGING RACE, GENDER, SEXUALITY, AND
 NATION (University of Michigan
 Press)](https://www.fulcrum.org/epubs/zp38wf11f?locale=en#/OEBPS/DeKosnik-0021.xhtml%23ch11){target="_blank"}
@@ -29,6 +30,7 @@ Press)](https://www.fulcrum.org/epubs/zp38wf11f?locale=en#/OEBPS/DeKosnik-0021.x
 * Partially computer-generated long poem excerpted
     - in [BOSTON REVIEW](https://store.bostonreview.net/media/1621.pdf){target="_blank"}
     - in [DATABLEED](https://www.datableedzine.com/kyle-booten-issue-11){target="_blank"}
+    - forthcoming in LITMUS (UK), [the lichen issue](https://www.litmuspublishing.co.uk/Submissions)
   
 * ["Patterns of
 Wisdom" (NAACL 2016, Best Short Paper Runner-Up)](https://www.aclweb.org/anthology/N16-1134.pdf){target="_blank"}

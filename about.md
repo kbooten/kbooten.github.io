@@ -1,6 +1,6 @@
-Now: Neukom Postdoctoral Fellow, Dartmouth College  
-  
 Next: Assistant Professor, Dept. of English, UConn  
+
+Now: Neukom Postdoctoral Fellow, Dartmouth College    
   
 Ph.D., UC Berkeley
   

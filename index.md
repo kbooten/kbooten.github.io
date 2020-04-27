@@ -15,7 +15,7 @@ electronic book review
 * [Response essay to David Jhave Johnston’s
 RERITES (ANTEISM)](https://www.anteism.com/shop/rerites-raw-output-responses-david-jhave-johnston){target="_blank"}
   
-* [Five poems, including 3 collaborations with crowdworkers in LANA TURNER \#11](http://www.lanaturnerjournal.com/v/vspfiles/downloadables/Lana_Turner_No_11.pdf#page=242){target="_blank"}
+* [Five poems, including 3 collaborations with crowdworkers, in LANA TURNER \#11](http://www.lanaturnerjournal.com/v/vspfiles/downloadables/Lana_Turner_No_11.pdf#page=242){target="_blank"}
   
 
 * ["Hashtag Rhetoric," chapter in \#IDENTITY: HASHTAGGING RACE, GENDER, SEXUALITY, AND

@@ -22,7 +22,7 @@ RERITES (ANTEISM)](https://www.anteism.com/shop/rerites-raw-output-responses-dav
 NATION (University of Michigan
 Press)](https://www.fulcrum.org/epubs/zp38wf11f?locale=en#/OEBPS/DeKosnik-0021.xhtml%23ch11){target="_blank"}
   
-* “How Do Computers Read?” (Panel, MLA 2019, Chicago)
+* "How Do Computers Read?" (Panel, MLA 2019, Chicago)
   
 * [Two minimal (&lt;2KB) interfaces in TAPER
 \#2](http://taper.badquar.to/2/){target="_blank"}

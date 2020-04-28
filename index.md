@@ -5,9 +5,9 @@ residence](https://nokturno.fi/en/news/our-poet-in-digital-residence-2020-is-kyl
 * [Essay on/with/against computational sentiment analysis in
 TENTACULAR \#4](https://www.tentacularmag.com/issue-4a/kyle-booten){target="_blank"}
 
-* Essay on the algorithmic mediation of writing and the concept of care, forthcoming in electronic book review
+* Article on the algorithmic mediation of writing and the concept of care, forthcoming in electronic book review
 
-* Essay on creative Turing Tests, with Dan Rockmore, forthcoming in
+* Article on creative Turing Tests, with Dan Rockmore, forthcoming in
 electronic book review
 
 * Papers in ICCC 2019:

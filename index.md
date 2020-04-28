@@ -14,8 +14,10 @@ electronic book review
     * ["Toward Digital *Progymnasmata*"](http://computationalcreativity.net/iccc2019/assets/iccc_proceedings_2019.pdf#page=15){target="_blank"}
     * ["Fragile Pulse: A Meditation App"](http://computationalcreativity.net/iccc2019/assets/iccc_proceedings_2019.pdf#page=368){target="_blank"}
   
-* [Response essay to David Jhave Johnston’s
-RERITES (ANTEISM)](https://www.anteism.com/shop/rerites-raw-output-responses-david-jhave-johnston){target="_blank"}
+* Response essay to David Jhave Johnston’s
+RERITES (ANTEISM)
+    * [Excerpt](resources/reritespaper.pdf){target="_blank"}
+    * [Book](https://www.anteism.com/shop/rerites-raw-output-responses-david-jhave-johnston){target="_blank"}
   
 * [Five poems, including 3 collaborations with crowdworkers, in LANA TURNER \#11](http://www.lanaturnerjournal.com/v/vspfiles/downloadables/Lana_Turner_No_11.pdf#page=242){target="_blank"}
   
@@ -32,7 +34,7 @@ Press)](https://www.fulcrum.org/epubs/zp38wf11f?locale=en#/OEBPS/DeKosnik-0021.x
 * Partially computer-generated long poem excerpted
     - in [BOSTON REVIEW](https://store.bostonreview.net/media/1621.pdf){target="_blank"}
     - in [DATABLEED](https://www.datableedzine.com/kyle-booten-issue-11){target="_blank"}
-    - forthcoming in LITMUS (UK), [the lichen issue](https://www.litmuspublishing.co.uk/Submissions)
+    - forthcoming in LITMUS (UK), [the lichen issue](https://www.litmuspublishing.co.uk/Submissions){target="_blank"}
   
 * ["Patterns of
 Wisdom" (NAACL 2016, Best Short Paper Runner-Up)](https://www.aclweb.org/anthology/N16-1134.pdf){target="_blank"}

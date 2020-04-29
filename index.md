@@ -15,7 +15,7 @@ electronic book review
     * ["Fragile Pulse: A Meditation App"](http://computationalcreativity.net/iccc2019/assets/iccc_proceedings_2019.pdf#page=368){target="_blank"}
   
 * Response essay to David Jhave Johnston’s
-RERITES (ANTEISM)
+a.i.-powered writing project RERITES (ANTEISM)
     * [Excerpt](resources/reritespaper.pdf){target="_blank"}
     * [Book](https://www.anteism.com/shop/rerites-raw-output-responses-david-jhave-johnston){target="_blank"}
   

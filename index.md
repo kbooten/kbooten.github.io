@@ -30,11 +30,12 @@ Press)](https://www.fulcrum.org/epubs/zp38wf11f?locale=en#/OEBPS/DeKosnik-0021.x
   
 * [Two minimal (&lt;2KB) interfaces in TAPER
 \#2](http://taper.badquar.to/2/){target="_blank"}
+    * [explanations](resources/taper2expl.txt){target="_blank"}
   
 * Partially computer-generated long poem excerpted
-    - in [BOSTON REVIEW](https://store.bostonreview.net/media/1621.pdf){target="_blank"}
-    - in [DATABLEED](https://www.datableedzine.com/kyle-booten-issue-11){target="_blank"}
-    - forthcoming in LITMUS (UK), [the lichen issue](https://www.litmuspublishing.co.uk/Submissions){target="_blank"}
+    - [in BOSTON REVIEW](https://store.bostonreview.net/media/1621.pdf){target="_blank"}
+    - [in DATABLEED](https://www.datableedzine.com/kyle-booten-issue-11){target="_blank"}
+    - [forthcoming in LITMUS (UK), the lichen issue](https://www.litmuspublishing.co.uk/Submissions){target="_blank"}
   
 * ["Patterns of
 Wisdom" (NAACL 2016, Best Short Paper Runner-Up)](https://www.aclweb.org/anthology/N16-1134.pdf){target="_blank"}

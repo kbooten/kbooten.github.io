@@ -2,13 +2,12 @@
 * [In the fall: Nokturno digital
 residence](https://nokturno.fi/en/news/our-poet-in-digital-residence-2020-is-kyle-booten){target="_blank"}
 
+* Article on the algorithmic mediation of writing and the concept of care, forthcoming in ELECTRONIC BOOK REVIEW
+
+* [Article on creative Turing Tests, with Dan Rockmore, in ELECTRONIC BOOK REVIEW](https://electronicbookreview.com/essay/the-anxiety-of-imitation-on-the-boringness-of-creative-turing-tests/){target="_blank"}
+
 * [Essay on/with/against computational sentiment analysis in
 TENTACULAR \#4](https://www.tentacularmag.com/issue-4a/kyle-booten){target="_blank"}
-
-* Article on the algorithmic mediation of writing and the concept of care, forthcoming in electronic book review
-
-* Article on creative Turing Tests, with Dan Rockmore, forthcoming in
-electronic book review
 
 * Papers in ICCC 2019:
     * ["Toward Digital *Progymnasmata*"](http://computationalcreativity.net/iccc2019/assets/iccc_proceedings_2019.pdf#page=15){target="_blank"}
@@ -32,10 +31,10 @@ Press)](https://www.fulcrum.org/epubs/zp38wf11f?locale=en#/OEBPS/DeKosnik-0021.x
 \#2](http://taper.badquar.to/2/){target="_blank"}
     * [explanations](resources/taper2expl.txt){target="_blank"}
   
-* Partially computer-generated long poem excerpted
+* Partially-computer-generated long poem excerpted
     - [in BOSTON REVIEW](https://store.bostonreview.net/media/1621.pdf){target="_blank"}
     - [in DATABLEED](https://www.datableedzine.com/kyle-booten-issue-11){target="_blank"}
-    - [forthcoming in LITMUS (UK), the lichen issue](https://www.litmuspublishing.co.uk/Submissions){target="_blank"}
+    - [in LITMUS (UK), the lichen issue, forthcoming](https://www.litmuspublishing.co.uk/Submissions){target="_blank"}
   
 * ["Patterns of
 Wisdom" (NAACL 2016, Best Short Paper Runner-Up)](https://www.aclweb.org/anthology/N16-1134.pdf){target="_blank"}

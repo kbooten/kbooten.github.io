@@ -4,6 +4,8 @@ residence](https://nokturno.fi/en/news/our-poet-in-digital-residence-2020-is-kyl
 
 * Article on the algorithmic mediation of writing and the concept of care, forthcoming in ELECTRONIC BOOK REVIEW
 
+* Article on crowdsourcing literary interpretation, forthcoming in DIGITAL STUDIES/LE CHAMP NUMÉRIQUE
+
 * [Article on creative Turing Tests, with Dan Rockmore, in ELECTRONIC BOOK REVIEW](https://electronicbookreview.com/essay/the-anxiety-of-imitation-on-the-boringness-of-creative-turing-tests/){target="_blank"}
 
 * [Essay on/with/against computational sentiment analysis in
@@ -29,7 +31,7 @@ Press)](https://www.fulcrum.org/epubs/zp38wf11f?locale=en#/OEBPS/DeKosnik-0021.x
   
 * [Two minimal (&lt;2KB) interfaces in TAPER
 \#2](http://taper.badquar.to/2/){target="_blank"}
-    * [explanations](resources/taper2expl.txt){target="_blank"}
+    * [Artist statements](resources/taper2expl.txt){target="_blank"}
   
 * Partially-computer-generated long poem excerpted
     - [in BOSTON REVIEW](https://store.bostonreview.net/media/1621.pdf){target="_blank"}

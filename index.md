@@ -31,7 +31,7 @@ Press)](https://www.fulcrum.org/epubs/zp38wf11f?locale=en#/OEBPS/DeKosnik-0021.x
   
 * [Two minimal (&lt;2KB) interfaces in TAPER
 \#2](http://taper.badquar.to/2/){target="_blank"}
-    * [Artist statements](resources/taper2expl.txt){target="_blank"}
+    * [Descriptions](resources/taper2expl.txt){target="_blank"}
   
 * Partially-computer-generated long poem excerpted
     - [in BOSTON REVIEW](https://store.bostonreview.net/media/1621.pdf){target="_blank"}

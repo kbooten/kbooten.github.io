@@ -1,8 +1,8 @@
-Next: Assistant Professor, Dept. of English, UConn  
+*Next:* Assistant Professor, Dept. of English, UConn, Storrs  
 
-Now: Neukom Postdoctoral Fellow, Dartmouth College    
+*Now:* Neukom Postdoctoral Fellow, Dartmouth College  
   
-Ph.D., UC Berkeley
+Ph.D., UC Berkeley  
   
 2016 Spencer/NAEd Dissertation Fellow  
   

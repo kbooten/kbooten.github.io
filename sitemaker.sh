@@ -6,7 +6,7 @@
 FILES=*.md
 for f in $FILES
 do
-  if [ "$f" != "readme.md" ] &&  [ "$f" != "map.md" ] ; then
+  if [ "$f" != "readme.md" ] && [ "$f" != "map.md" ] ; then
     filename="${f%.*}"
     echo "Converting $f to $filename.html"
     cat map.md $f > temp.md

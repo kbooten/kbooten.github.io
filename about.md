@@ -14,7 +14,7 @@ Researching digital literacies
   
 &
   
-Computer generated & mediated literature  
+Computer-generated & -mediated literature  
 
 
 

@@ -4,9 +4,9 @@ residence](https://nokturno.fi/en/news/our-poet-in-digital-residence-2020-is-kyl
 
 * Mid-June: Conference presentation on Flusser, computer-mediated writing, and [Style🗜Vise](https://github.com/kbooten/stylevise){target="_blank"}, FLUSSER AND HIS LANGUAGES, VILÉM FLUSSER ARCHIVE
 
-* Article on the algorithmic mediation of writing and the concept of care, forthcoming in ELECTRONIC BOOK REVIEW
+* Article on the algorithmic mediation of writing and the concept of care forthcoming in ELECTRONIC BOOK REVIEW
 
-* Article on crowdsourcing literary interpretation, forthcoming in DIGITAL STUDIES/LE CHAMP NUMÉRIQUE
+* Article on crowdsourcing literary interpretation forthcoming in DIGITAL STUDIES/LE CHAMP NUMÉRIQUE
 
 * [Article on creative Turing Tests, with Dan Rockmore, in ELECTRONIC BOOK REVIEW](https://electronicbookreview.com/essay/the-anxiety-of-imitation-on-the-boringness-of-creative-turing-tests/){target="_blank"}
 

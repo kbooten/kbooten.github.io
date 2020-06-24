@@ -1,6 +1,6 @@
 PARAPRAXIS MIRROR
 
-A minimal psychoanalytic interface.  Above: the user types in response to the query of a listener.  Below: a misreflective subconscious plane where words may Freudianly slip into other words.  Analysis of the Brown Corpus was used to target frequent start-letter/word-length combinations. A regular expression places each of these deformations/revelations at a random "depth" within the user's (the patient's) discourse so that they are triggered only after sufficient typing. 
+A minimal psychoanalytic interface.  Above: the user types in response to the query of a listener.  Below: a misreflective unconscious/subconscious plane where words may Freudianly slip into other words.  Analysis of the Brown Corpus was used to target frequent start-letter/word-length combinations. A regular expression places each of these deformations/revelations at a random "depth" within the user's (the patient's) discourse so that they are triggered only after sufficient typing. 
 
 
 

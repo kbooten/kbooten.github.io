@@ -10,7 +10,7 @@ residence](https://nokturno.fi/en/news/our-poet-in-digital-residence-2020-is-kyl
 
 * [Article on creative Turing Tests, with Dan Rockmore, in ELECTRONIC BOOK REVIEW](https://electronicbookreview.com/essay/the-anxiety-of-imitation-on-the-boringness-of-creative-turing-tests/){target="_blank"}
 
-* Poem written with the help of [affinity propagation algorithm](https://stats.stackexchange.com/questions/123060/clustering-a-long-list-of-strings-words-into-similarity-groups/158090#158090), forthcoming in *Lana Turner*
+* Poem written with the help of [affinity propagation algorithm](https://stats.stackexchange.com/questions/123060/clustering-a-long-list-of-strings-words-into-similarity-groups/158090#158090), forthcoming in LANA TURNER
 
 * [Essay on/with/against computational sentiment analysis in
 TENTACULAR \#4](https://www.tentacularmag.com/issue-4a/kyle-booten){target="_blank"}

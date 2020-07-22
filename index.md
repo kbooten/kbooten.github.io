@@ -4,6 +4,8 @@ residence](https://nokturno.fi/en/news/our-poet-in-digital-residence-2020-is-kyl
 
 * Article on the [algorithmic mediation of writing and the concept of care](https://stars.library.ucf.edu/elo2020/asynchronous/proceedingspapers/11/){target="_blank"} in the proceedings of ELO2020
 
+* Poems written with a [Freudian interface](https://taper.badquar.to/2/parapraxis_mirror.html){target="_blank"} forthcoming in DENVER QUARTERLY. 
+
 * Conference presentation on Flusser, computer-mediated writing, and [Style🗜Vise](https://github.com/kbooten/stylevise){target="_blank"}, FLUSSER AND HIS LANGUAGES, VILÉM FLUSSER ARCHIVE, June 2020.
 
 * Article on crowdsourcing literary interpretation forthcoming in DIGITAL STUDIES/LE CHAMP NUMÉRIQUE
@@ -25,7 +27,6 @@ a.i.-powered writing project RERITES (ANTEISM)
     * [Book](https://www.anteism.com/shop/rerites-raw-output-responses-david-jhave-johnston){target="_blank"}
   
 * [Five poems, including 3 collaborations with crowdworkers, in LANA TURNER \#11](http://www.lanaturnerjournal.com/v/vspfiles/downloadables/Lana_Turner_No_11.pdf#page=242){target="_blank"}
-  
 
 * ["Hashtag Rhetoric," chapter in \#IDENTITY: HASHTAGGING RACE, GENDER, SEXUALITY, AND
 NATION (University of Michigan

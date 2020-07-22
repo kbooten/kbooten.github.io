@@ -2,17 +2,17 @@
 * [In the fall: Nokturno digital
 residence](https://nokturno.fi/en/news/our-poet-in-digital-residence-2020-is-kyle-booten){target="_blank"}
 
-* Article on the [algorithmic mediation of writing and the concept of care](https://stars.library.ucf.edu/elo2020/asynchronous/proceedingspapers/11/){target="_blank"} in the proceedings of ELO2020
+* Article on crowdsourcing literary interpretation forthcoming in DIGITAL STUDIES/LE CHAMP NUMÉRIQUE
 
-* Poems written with a [Freudian interface](https://taper.badquar.to/2/parapraxis_mirror.html){target="_blank"} forthcoming in DENVER QUARTERLY. 
+* Article on the [algorithmic mediation of writing and the concept of care](https://stars.library.ucf.edu/elo2020/asynchronous/proceedingspapers/11/){target="_blank"} in the proceedings of ELO 2020
+
+* Poem written with the help of [affinity propagation algorithm](https://stats.stackexchange.com/questions/123060/clustering-a-long-list-of-strings-words-into-similarity-groups/158090#158090), forthcoming in LANA TURNER
+
+* Poems written with the help of a [Freudian interface](https://taper.badquar.to/2/parapraxis_mirror.html){target="_blank"} forthcoming in DENVER QUARTERLY
 
 * Conference presentation on Flusser, computer-mediated writing, and [Style🗜Vise](https://github.com/kbooten/stylevise){target="_blank"}, FLUSSER AND HIS LANGUAGES, VILÉM FLUSSER ARCHIVE, June 2020.
 
-* Article on crowdsourcing literary interpretation forthcoming in DIGITAL STUDIES/LE CHAMP NUMÉRIQUE
-
 * [Article on creative Turing Tests, with Dan Rockmore, in ELECTRONIC BOOK REVIEW](https://electronicbookreview.com/essay/the-anxiety-of-imitation-on-the-boringness-of-creative-turing-tests/){target="_blank"}
-
-* Poem written with the help of [affinity propagation algorithm](https://stats.stackexchange.com/questions/123060/clustering-a-long-list-of-strings-words-into-similarity-groups/158090#158090), forthcoming in LANA TURNER
 
 * [Essay on/with/against computational sentiment analysis in
 TENTACULAR \#4](https://www.tentacularmag.com/issue-4a/kyle-booten){target="_blank"}

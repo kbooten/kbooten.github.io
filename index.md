@@ -1,10 +1,11 @@
-
 * [In the fall: Nokturno digital
 residence](https://nokturno.fi/en/news/our-poet-in-digital-residence-2020-is-kyle-booten){target="_blank"}
 
 * Article on crowdsourcing literary interpretation forthcoming in DIGITAL STUDIES/LE CHAMP NUMÉRIQUE
 
-* [Article on the algorithmic mediation of writing and the concept of care](https://stars.library.ucf.edu/elo2020/asynchronous/proceedingspapers/11/){target="_blank"} in the proceedings of ELO 2020
+* [Article on the algorithmic mediation of writing and the concept of care](https://stars.library.ucf.edu/elo2020/asynchronous/proceedingspapers/11/){target="_blank"} in the proceedings of ELO2020
+
+* [Brief talk on poetic HCI, with Katy Gero, at DH2020](https://dh2020.adho.org/wp-content/uploads/2020/07/640_PoetryMachinesEmpoweringCreativeWriterstoDesignDHTools.html){target="_blank"}
 
 * Poem written with the help of [affinity propagation algorithm](https://stats.stackexchange.com/questions/123060/clustering-a-long-list-of-strings-words-into-similarity-groups/158090#158090), forthcoming in LANA TURNER
 

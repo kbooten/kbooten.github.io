@@ -44,8 +44,7 @@ Press)](https://www.fulcrum.org/epubs/zp38wf11f?locale=en#/OEBPS/DeKosnik-0021.x
     - [in DATABLEED](https://www.datableedzine.com/kyle-booten-issue-11){target="_blank"}
     - [in LITMUS (UK), the lichen issue, forthcoming](https://www.litmuspublishing.co.uk/Submissions){target="_blank"}
   
-* ["Patterns of
-Wisdom" (NAACL 2016, Best Short Paper Runner-Up)](https://www.aclweb.org/anthology/N16-1134.pdf){target="_blank"}
+* [Short computational lingustic analysis of quotations, with Marti Hearst (NAACL 2016, Best Short Paper Runner-Up)](https://www.aclweb.org/anthology/N16-1134.pdf){target="_blank"}
   
 
 <!-- * [Two small

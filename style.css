@@ -18,8 +18,8 @@ div{
 }
 
 li{
-  margin-top:calc(14px + 0.2vw);
-  margin-bottom:calc(14px + 0.2vw);
+  margin-top:calc(14px + 0.7vw);
+  margin-bottom:calc(14px + 0.7vw);
 }
 /*li{
   padding-top: calc(8px + 0.2vw);

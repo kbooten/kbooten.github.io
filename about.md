@@ -1,6 +1,6 @@
-*Next:* Assistant Professor, Dept. of English, UConn, Storrs  
+Assistant Professor, Dept. of English, UConn, Storrs  
 
-*Now:* Neukom Postdoctoral Fellow, Dartmouth College  
+Previous: Neukom Postdoctoral Fellow, Dartmouth College  
   
 Ph.D., UC Berkeley  
   

@@ -2,8 +2,6 @@
 title: Kyle Booten
 ---
 
-# Kyle Booten
-
 ***
 
 ##### [Digital Progymnasmata](progym.html)

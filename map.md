@@ -1,3 +1,7 @@
+---
+title: Kyle Booten
+---
+
 # Kyle Booten
 
 ***

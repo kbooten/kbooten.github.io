@@ -3,7 +3,7 @@ residence](https://nokturno.fi/en/news/our-poet-in-digital-residence-2020-is-kyl
 
 * [Article on the algorithmic mediation of writing and the concept of care](https://stars.library.ucf.edu/elo2020/asynchronous/proceedingspapers/11/){target="_blank"} in the proceedings of ELO2020
 
-* [Article on crowdsourcing literary interpretation forthcoming in ELO2019 (LES PRESSES DE L'ÉCUREUIL)](http://nt2.uqam.ca/sites/nt2.uqam.ca/files/fichiers/page/attention_a_la_marche_mind_the_gap_dirige_par_-_edited_by_bertrand_gervais_sophie_marcotte.pdf#page=422)
+* [Article on crowdsourcing literary interpretation in ELO2018 (LES PRESSES DE L'ÉCUREUIL)](http://nt2.uqam.ca/sites/nt2.uqam.ca/files/fichiers/page/attention_a_la_marche_mind_the_gap_dirige_par_-_edited_by_bertrand_gervais_sophie_marcotte.pdf#page=422)
 
 <!-- * [Brief talk on poetic HCI, with Katy Gero, at DH2020](https://dh2020.adho.org/wp-content/uploads/2020/07/640_PoetryMachinesEmpoweringCreativeWriterstoDesignDHTools.html){target="_blank"} -->
 

@@ -9,7 +9,7 @@ residence](https://nokturno.fi/en/news/our-poet-in-digital-residence-2020-is-kyl
 
 * Poem written with the help of [affinity propagation algorithm](https://stats.stackexchange.com/questions/123060/clustering-a-long-list-of-strings-words-into-similarity-groups/158090#158090), forthcoming in LANA TURNER
 
-* Poems written with the help of a [Freudian interface](https://taper.badquar.to/2/parapraxis_mirror.html){target="_blank"} forthcoming in DENVER QUARTERLY
+* Poems written with the help of a [Freudian interface](https://taper.badquar.to/2/parapraxis_mirror.html){target="_blank"} in DENVER QUARTERLY \#53
 
 * Conference presentation on Flusser, computer-mediated writing, and [Style🗜Vise](https://github.com/kbooten/stylevise){target="_blank"}, FLUSSER AND HIS LANGUAGES, VILÉM FLUSSER ARCHIVE, June 2020.
 

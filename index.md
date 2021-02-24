@@ -1,7 +1,7 @@
 
 * Paper on [Style🗜Vise](https://github.com/kbooten/stylevise) forthcoming in FLUSSER STUDIES
  
-* Poem written with the help of [affinity propagation algorithm](https://stats.stackexchange.com/questions/123060/clustering-a-long-list-of-strings-words-into-similarity-groups/158090#158090), forthcoming in LANA TURNER
+* Poem written with the help of [affinity propagation algorithm](https://stats.stackexchange.com/questions/123060/clustering-a-long-list-of-strings-words-into-similarity-groups/158090#158090), forthcoming in [LANA TURNER \#13](http://www.lanaturnerjournal.com/product-p/lt13-p.htm)
 
 * Several computer-mediated poems forthcoming in FENCE
 

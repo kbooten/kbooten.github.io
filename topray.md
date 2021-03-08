@@ -5,3 +5,4 @@ I completed To Pray Without Ceasing while the Fall 2020 poet-in-residence at Nok
 - [To Pray Without Ceasing](https://www.topraywithoutceasing.com/)
 - [Code](https://github.com/kbooten/topraywithoutceasing)
 - [Residence diary](http://residence6.nokturno.fi/)
+- [ELO/SLSA2021 "Posthuman" Exhibition](https://eliterature.org/elo2021/posthuman/)

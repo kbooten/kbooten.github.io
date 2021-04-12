@@ -1,3 +1,4 @@
+* [To Pray Without Ceasing](topray.html) to be exhibited in xCoAx 2021
 
 * Paper on [Style🗜Vise](https://github.com/kbooten/stylevise) in [FLUSSER STUDIES \#30](https://www.flusserstudies.net/person/kyle-booten)
  

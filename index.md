@@ -1,18 +1,18 @@
-* [To Pray Without Ceasing](topray.html) to be exhibited in xCoAx 2021
+* To Pray Without Ceasing in [xCoAx 2021](https://2021.xcoax.org/kbo/)
+
+* Short paper on computational interfaces for/by poets in [Creativity and Cognition 2021](https://dl.acm.org/doi/abs/10.1145/3450741.3466813)
 
 * Paper on [Style🗜Vise](https://github.com/kbooten/stylevise) in [FLUSSER STUDIES \#30](https://www.flusserstudies.net/person/kyle-booten)
  
 * Poem written with the help of [affinity propagation algorithm](https://stats.stackexchange.com/questions/123060/clustering-a-long-list-of-strings-words-into-similarity-groups/158090#158090) in [LANA TURNER \#13](http://www.lanaturnerjournal.com/product-p/lt13-p.htm)
 
-* Several computer-mediated poems forthcoming in FENCE
+* Several poems in [FENCE \#37-\#38](https://reader.exacteditions.com/issues/93390/spread/7)
 
 * [Article on the algorithmic mediation of writing and the concept of care](https://stars.library.ucf.edu/elo2020/asynchronous/proceedingspapers/11/){target="_blank"} in the proceedings of ELO 2020
 
 * [Article on crowdsourcing literary interpretation in the proceedings of ELO 2018 (LES PRESSES DE L'ÉCUREUIL)](http://nt2.uqam.ca/sites/nt2.uqam.ca/files/fichiers/page/attention_a_la_marche_mind_the_gap_dirige_par_-_edited_by_bertrand_gervais_sophie_marcotte.pdf#page=422)
 
 <!-- * [Brief talk on poetic HCI, with Katy Gero, at DH2020](https://dh2020.adho.org/wp-content/uploads/2020/07/640_PoetryMachinesEmpoweringCreativeWriterstoDesignDHTools.html){target="_blank"} -->
-
-
 
 * Poems written with the help of a [Freudian interface](https://taper.badquar.to/2/parapraxis_mirror.html){target="_blank"} in DENVER QUARTERLY \#53
 
@@ -27,18 +27,18 @@ TENTACULAR \#4](https://www.tentacularmag.com/issue-4a/kyle-booten){target="_bla
     * ["Toward Digital *Progymnasmata*"](http://computationalcreativity.net/iccc2019/assets/iccc_proceedings_2019.pdf#page=15){target="_blank"}
     * ["Fragile Pulse: A Meditation App"](http://computationalcreativity.net/iccc2019/assets/iccc_proceedings_2019.pdf#page=368){target="_blank"}
   
-* Response essay to David Jhave Johnston’s
+<!-- * Response essay to David Jhave Johnston’s
 a.i.-powered writing project RERITES (ANTEISM)
     * [Excerpt](resources/reritespaper.pdf){target="_blank"}
-    * [Book](https://www.anteism.com/shop/rerites-raw-output-responses-david-jhave-johnston){target="_blank"}
+    * [Book](https://www.anteism.com/shop/rerites-raw-output-responses-david-jhave-johnston){target="_blank"} -->
   
 * [Five poems, including 3 collaborations with crowdworkers, in LANA TURNER \#11](http://www.lanaturnerjournal.com/v/vspfiles/downloadables/Lana_Turner_No_11.pdf#page=242){target="_blank"}
 
-* ["Hashtag Rhetoric," chapter in \#IDENTITY: HASHTAGGING RACE, GENDER, SEXUALITY, AND
+<!-- * ["Hashtag Rhetoric," chapter in \#IDENTITY: HASHTAGGING RACE, GENDER, SEXUALITY, AND
 NATION (University of Michigan
-Press)](https://www.fulcrum.org/epubs/zp38wf11f?locale=en#/OEBPS/DeKosnik-0021.xhtml%23ch11){target="_blank"}
+Press)](https://www.fulcrum.org/epubs/zp38wf11f?locale=en#/OEBPS/DeKosnik-0021.xhtml%23ch11){target="_blank"} -->
   
-* "How Do Computers Read?" (Panel, MLA 2019, Chicago)
+<!-- * "How Do Computers Read?" (Panel, MLA 2019, Chicago) -->
   
 * [Two minimal (&lt;2KB) interfaces in TAPER
 \#2](http://taper.badquar.to/2/){target="_blank"}
@@ -49,7 +49,7 @@ Press)](https://www.fulcrum.org/epubs/zp38wf11f?locale=en#/OEBPS/DeKosnik-0021.x
     - [in DATABLEED](https://www.datableedzine.com/kyle-booten-issue-11){target="_blank"}
     - [in LITMUS (UK), the lichen issue](https://www.litmuspublishing.co.uk/Shop/2054-8915-5){target="_blank"}
   
-* [Short computational lingustic analysis of quotations, with Marti Hearst (NAACL 2016, Best Short Paper Runner-Up)](https://www.aclweb.org/anthology/N16-1134.pdf){target="_blank"}
+<!-- * [Short computational lingustic analysis of quotations, with Marti Hearst (NAACL 2016, Best Short Paper Runner-Up)](https://www.aclweb.org/anthology/N16-1134.pdf){target="_blank"} -->
   
 
 <!-- * [Two small

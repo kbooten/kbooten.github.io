@@ -1,6 +1,6 @@
-* To Pray Without Ceasing in [XCOAX 2021](https://2021.xcoax.org/kbo/)
+* To Pray Without Ceasing at [xCoAx 2021](https://2021.xcoax.org/kbo/)
 
-* Short paper on computational interfaces for/by poets in [CREATIVITY AND COGNITION 2021](https://dl.acm.org/doi/abs/10.1145/3450741.3466813), with Katy Gero
+* Short paper on computational interfaces for/by poets in [Creativity and Cognition 2021](https://dl.acm.org/doi/abs/10.1145/3450741.3466813), with Katy Gero
 
 * Paper on [Style🗜Vise](https://github.com/kbooten/stylevise) in [FLUSSER STUDIES \#30](https://www.flusserstudies.net/person/kyle-booten)
  

@@ -1,14 +1,18 @@
-* To Pray Without Ceasing at [xCoAx 2021](https://2021.xcoax.org/kbo/)
+* [Paper on the development of a Keatsean Chrome extension in ELECTRONIC BOOK REVIEW](https://electronicbookreview.com/essay/how-to-re-hijack-your-mind-critical-making-and-the-battle-for-intelligence/){target="_blank"}
 
-* Short paper on computational interfaces for/by poets in [Creativity and Cognition 2021](https://dl.acm.org/doi/abs/10.1145/3450741.3466813), with Katy Gero
+* [To Pray Without Ceasing at xCoAx 2021](https://2021.xcoax.org/kbo/){target="_blank"}
 
-* Paper on [Style🗜Vise](https://github.com/kbooten/stylevise) in [FLUSSER STUDIES \#30](https://www.flusserstudies.net/person/kyle-booten)
+* [Article on the algorithmic mediation of writing and the concept of care](https://electronicbookreview.com/essay/making-writing-harder-computer-mediated-authorship-and-the-problem-of-care/){target="_blank"} in ELECTRONIC BOOK REVIEW
+
+* [Short paper on computational interfaces for/by poets in Creativity and Cognition 2021, with Katy Gero](https://dl.acm.org/doi/abs/10.1145/3450741.3466813){target="_blank"}
+
+* Paper on [Style🗜Vise](https://github.com/kbooten/stylevise) in [FLUSSER STUDIES \#30](https://www.flusserstudies.net/person/kyle-booten){target="_blank"}
  
-* Poem written with the help of [affinity propagation algorithm](https://stats.stackexchange.com/questions/123060/clustering-a-long-list-of-strings-words-into-similarity-groups/158090#158090) in [LANA TURNER \#13](http://www.lanaturnerjournal.com/product-p/lt13-p.htm)
+* Poem written with the help of [affinity propagation algorithm](https://stats.stackexchange.com/questions/123060/clustering-a-long-list-of-strings-words-into-similarity-groups/158090#158090){target="_blank"} in [LANA TURNER \#13](http://www.lanaturnerjournal.com/product-p/lt13-p.htm){target="_blank"}
 
-* Several poems in [FENCE \#37-\#38](https://reader.exacteditions.com/issues/93390/spread/7)
+* Several poems in [FENCE \#37-\#38](https://reader.exacteditions.com/issues/93390/spread/7){target="_blank"}
 
-* [Article on the algorithmic mediation of writing and the concept of care](https://stars.library.ucf.edu/elo2020/asynchronous/proceedingspapers/11/){target="_blank"} in the proceedings of ELO 2020
+
 
 * [Article on crowdsourcing literary interpretation in the proceedings of ELO 2018 (LES PRESSES DE L'ÉCUREUIL)](http://nt2.uqam.ca/sites/nt2.uqam.ca/files/fichiers/page/attention_a_la_marche_mind_the_gap_dirige_par_-_edited_by_bertrand_gervais_sophie_marcotte.pdf#page=422)
 

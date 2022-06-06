@@ -10,5 +10,5 @@ A preliminary paper can be found in the [proceedings of the ICCC (2019)](http://
     - [paper](https://stars.library.ucf.edu/elo2020/asynchronous/proceedingspapers/11/){target="_blank"}
 * [Ekphrasis Gym](https://github.com/kbooten/ekphrasisgym){target="_blank"}
 * [Lotus Chorus Workshop](https://github.com/kbooten/lotuschorusworkshop){target="_blank"}
-    - paper forthcoming in the proceedings of the 2022 Ammerman Symposium 
+    - paper forthcoming 
 * [Low Phreak](https://github.com/kbooten/lowphreak){target="_blank"}

@@ -12,7 +12,7 @@ do
     cat map.md $f > temp.md
     ## make current page special
     sed -i.bak "s#]($filename.html#*]($filename.html#g" temp.md
-    pandoc temp.md -s -o $filename.html
+    pandoc temp.md --css=false -s -o $filename.html 
   fi
 done
 rm temp.md
@@ -24,12 +24,18 @@ PAGES=*.html
 for p in $PAGES
 do
   echo "Adding resources, viewport meta, favicon, div to $p"
-  sed -i.bak 's/\<head\>/\<head\>\<link rel="icon" type="image\/x-icon" href="favicon.ico"\>/g' $p
-  sed -i.bak 's/\<head\>/\<head\>\<link rel="stylesheet" type="text\/css" href="style.css"\>/g' $p
+  #sed -i.bak 's/\<head\>/\<head\>\<link rel="icon" type="image\/x-icon" href="favicon.ico"\>/g' $p
+  #sed -i.bak 's/\<head\>/\<head\>\<link rel="stylesheet" type="text\/css" href="style.css"\>/g' $p
+  ##sed -i.bak 's/\<head\>/\<head\>\<link href="https:\/\/fonts.googleapis.com\/css2?family=Roboto:wght@100\&display=swap" rel="stylesheet"\>/g' $p
+  #sed -i.bak 's/\<body\>/\<body\>\<div\>/g' $p
+  #sed -i.bak 's/\<\/body\>/\<\/div\>\<\/body\>/g' $p
+  #sed -i.bak 's/\<head\>/\<head\>\<meta name="viewport" content="width=device-width, initial-scale=1.0"\>/g' $p
+  sed -i.bak 's/<head>/<head><link rel="icon" type="image\/x-icon" href="favicon.ico">/g' $p
+  sed -i.bak 's/<head>/<head><link rel="stylesheet" type="text\/css" href="style.css">/g' $p
   #sed -i.bak 's/\<head\>/\<head\>\<link href="https:\/\/fonts.googleapis.com\/css2?family=Roboto:wght@100\&display=swap" rel="stylesheet"\>/g' $p
-  sed -i.bak 's/\<body\>/\<body\>\<div\>/g' $p
-  sed -i.bak 's/\<\/body\>/\<\/div\>\<\/body\>/g' $p
-  sed -i.bak 's/\<head\>/\<head\>\<meta name="viewport" content="width=device-width, initial-scale=1.0"\>/g' $p
+  sed -i.bak 's/<body>/<body><div>/g' $p
+  sed -i.bak 's/<\/body>/<\/div><\/body>/g' $p
+  sed -i.bak 's/<head>/<head><meta name="viewport" content="width=device-width, initial-scale=1.0">/g' $p
 done
 
 ## delete .bak

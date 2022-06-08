@@ -7,7 +7,7 @@ A preliminary paper can be found in the [proceedings of the ICCC (2019)](http://
 * [Manual Style Transfer](https://github.com/kbooten/manualstyletransfer){target="_blank"}
 * [Alternating Current](https://github.com/kbooten/alternatingcurrent){target="_blank"}
     - [poetic essay](https://www.tentacularmag.com/issue-4a/kyle-booten){target="_blank"}
-    - [paper](https://stars.library.ucf.edu/elo2020/asynchronous/proceedingspapers/11/){target="_blank"}
+    - [paper](https://electronicbookreview.com/essay/making-writing-harder-computer-mediated-authorship-and-the-problem-of-care/){target="_blank"}
 * [Ekphrasis Gym](https://github.com/kbooten/ekphrasisgym){target="_blank"}
 * [Lotus Chorus Workshop](https://github.com/kbooten/lotuschorusworkshop){target="_blank"}
     - paper forthcoming 

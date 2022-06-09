@@ -30,15 +30,15 @@ li{
 a{
   color: inherit;
   text-decoration:underline;
-  text-decoration-color: #8ce5f5;
+  text-decoration-color: #FF5EDE;
   z-index:-1;
 }
 
 a:hover{
 /*   color: #1fe09d; */
   text-decoration:underline;
-  text-decoration-color: #8ce5f5;
-  text-decoration-thickness: 2px;
+  text-decoration-color: #FF5EDE;
+  text-decoration-thickness: 3px;
 }
 
 h5{

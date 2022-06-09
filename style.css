@@ -2,12 +2,13 @@ body{
   font-size: calc(16px + 0.3vw);
   font-family: sans-serif;
   color:black;
+  background:#f7f7f2;
 }
 
 h1{
   font-size: calc(20px + 0.3vw);
   font-family: sans-serif;
-  color:#575757;
+  color:blue;
 }
 
 div{
@@ -30,15 +31,15 @@ li{
 a{
   color: inherit;
   text-decoration:underline;
-  text-decoration-color: #8ce5f5;
+  text-decoration-color:yellow;
   z-index:-1;
 }
 
 a:hover{
 /*   color: #1fe09d; */
   text-decoration:underline;
-  text-decoration-color: #8ce5f5;
-  text-decoration-thickness: 2px;
+  text-decoration-color: red;
+  text-decoration-thickness: 3px;
 }
 
 h5{
@@ -56,8 +57,8 @@ h5>a{
 }
 
 h5>a:hover{
-  color:black;
-  background:#efff91;
+  color:white;
+  background:green;
   text-decoration: none;
 }
 

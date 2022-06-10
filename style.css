@@ -30,7 +30,9 @@ li{
 a{
   color: inherit;
   text-decoration:underline;
-  text-decoration-color: #FF5EDE;
+  text-decoration-color:#FF5EDE;
+  text-decoration-thickness:2px;
+  text-underline-offset:1px;
   z-index:-1;
 }
 

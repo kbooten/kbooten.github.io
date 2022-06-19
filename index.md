@@ -1,4 +1,4 @@
-* [Paper on the development of a Keatsean Chrome extension in ELECTRONIC BOOK REVIEW](https://electronicbookreview.com/essay/how-to-re-hijack-your-mind-critical-making-and-the-battle-for-intelligence/){target="_blank"}
+* [Paper on the development of a Keatsian Chrome extension in ELECTRONIC BOOK REVIEW](https://electronicbookreview.com/essay/how-to-re-hijack-your-mind-critical-making-and-the-battle-for-intelligence/){target="_blank"}
 
 * [To Pray Without Ceasing at xCoAx 2021](https://2021.xcoax.org/kbo/){target="_blank"}
 

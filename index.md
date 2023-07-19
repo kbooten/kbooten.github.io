@@ -1,6 +1,6 @@
 * [Paper on a writing-workshop simulator in XCOAX 2023](https://2023.xcoax.org/pdf/booten.pdf){target="_blank"}
 
-* [Poems written with algorithmic feedback in BLACKBOX MANIFOLD](http://www.manifold.group.shef.ac.uk/issue28/){target="_blank"}
+* [Poems written with algorithmic feedback in BLACKBOX MANIFOLD](https://blackboxmanifold.sites.sheffield.ac.uk/issues/issues-21-28/issue-28){target="_blank"}
 
 * [Paper on the development of a Keatsian Chrome extension in ELECTRONIC BOOK REVIEW](https://electronicbookreview.com/essay/how-to-re-hijack-your-mind-critical-making-and-the-battle-for-intelligence/){target="_blank"}
 

@@ -1,4 +1,4 @@
-* [Paper on a writing-workshop simulator in XCOAX 2023](https://2023.xcoax.org/pdf/booten.pdf){target="_blank"}
+* [Paper on a writing-workshop simulator at XCOAX 2023](https://2023.xcoax.org/pdf/booten.pdf){target="_blank"}
 
 * [Poems written with algorithmic feedback in BLACKBOX MANIFOLD](https://blackboxmanifold.sites.sheffield.ac.uk/issues/issues-21-28/issue-28){target="_blank"}
 

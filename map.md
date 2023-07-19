@@ -4,11 +4,13 @@ title: Kyle Booten
 
 ***
 
-##### [Digital Progymnasmata](progym.html)
+##### [Noöhacking](noohacking.html)
 
-##### [To Pray Without Ceasing](topray.html)
+##### [Word-Gyms](progym.html)
 
-##### [Selected Publications & Appearances](index.html)
+<!-- ##### [To Pray Without Ceasing](topray.html)
+ -->
+##### [Selected Publications](index.html)
 
 ##### [About](about.html)
 

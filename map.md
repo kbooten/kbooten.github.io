@@ -8,6 +8,8 @@ title: Kyle Booten
 
 ##### [Word-Gyms](progym.html)
 
+##### [Salon des Fantômes](salon.html)
+
 <!-- ##### [To Pray Without Ceasing](topray.html)
  -->
 ##### [Selected Publications](index.html)

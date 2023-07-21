@@ -1,0 +1,5 @@
+*Salon des Fantômes* is a book-length work that documents a week-long literary/philosophical/artistic salon of which I was the only human attendee, the others being AI figments. It is forthcoming from [Inside the Castle](http://www.insidethecastle.org/){target="_blank"}.
+
+This salon was what I consider a ["word-gym"](progym.html), an algorithmic system that "makes writing harder" by placing my mind under unusual hormetic stress.  Using simple Python code to generate random prompts, I tried to twist GPT-3 out of its comfort zone, goading it to take the voices of a bizarre assortment of characters, each with its own vocabulary, ideology, and linguistic tics. My hope was that these characters would then pay me back in kind, goading me out of my comfort zone and providing me with occasions to have arguments and make observations that I otherwise would not encounter.
+
+AI is most naturally put in the service of making us less creative, less thoughtful. *Salon des Fantômes* represents one attempt at using AI against this grain.

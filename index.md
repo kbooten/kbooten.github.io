@@ -1,6 +1,8 @@
+* [Poems injected with allusions in BLACKBOX MANIFOLD #28](https://blackboxmanifold.sites.sheffield.ac.uk/issues/issue-31/kylebootenbm31){target="_blank"}
+
 * [Paper on a writing-workshop simulator at XCOAX 2023](https://2023.xcoax.org/pdf/booten.pdf){target="_blank"}
 
-* [Poems written with algorithmic feedback in BLACKBOX MANIFOLD](https://blackboxmanifold.sites.sheffield.ac.uk/issues/issues-21-28/issue-28){target="_blank"}
+* [Poems written with a creative writing workshop simulator in BLACKBOX MANIFOLD](https://blackboxmanifold.sites.sheffield.ac.uk/issues/issues-21-28/issue-28){target="_blank"}
 
 * [Paper on the development of a Keatsian Chrome extension in ELECTRONIC BOOK REVIEW](https://electronicbookreview.com/essay/how-to-re-hijack-your-mind-critical-making-and-the-battle-for-intelligence/){target="_blank"}
 

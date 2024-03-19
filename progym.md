@@ -3,10 +3,11 @@
 A preliminary paper can be found in the [proceedings of the ICCC (2019)](http://computationalcreativity.net/iccc2019/assets/iccc_proceedings_2019.pdf#page=15){target="_blank"}. Examples of digital progymnasmata include:
 
 * [Lotus Chorus Workshop](https://github.com/kbooten/lotuschorusworkshop){target="_blank"}
-    - [paper](https://2023.xcoax.org/pdf/booten.pdf)
+    - [paper](https://2023.xcoax.org/pdf/booten.pdf){target="_blank"}
 * [Ekphrasis Gym](https://github.com/kbooten/ekphrasisgym){target="_blank"}
 * [Low Phreak](https://github.com/kbooten/lowphreak){target="_blank"}
 * [Allusion Injector](https://github.com/kbooten/allusion_injector){target="_blank"}
+    - [poems](https://blackboxmanifold.sites.sheffield.ac.uk/issues/issue-31/kylebootenbm31){target="_blank"}
 * [Style🗜Vise](https://github.com/kbooten/stylevise){target="_blank"}
     - [paper](https://www.flusserstudies.net/person/kyle-booten){target="_blank"}
 * [Manual Style Transfer](https://github.com/kbooten/manualstyletransfer){target="_blank"}

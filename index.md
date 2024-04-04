@@ -1,5 +1,7 @@
 * [Poems injected with allusions in BLACKBOX MANIFOLD #28](https://blackboxmanifold.sites.sheffield.ac.uk/issues/issue-31/kylebootenbm31){target="_blank"}
 
+* [A linguistic exercise in THE VIRTUAL SENTENCE (CABINET 2024)](https://www.cabinetmagazine.org/books/the_virtual_sentence.php){target="_blank"}
+
 * [Paper on a writing-workshop simulator at XCOAX 2023](https://2023.xcoax.org/pdf/booten.pdf){target="_blank"}
 
 * [Poems written with a creative writing workshop simulator in BLACKBOX MANIFOLD](https://blackboxmanifold.sites.sheffield.ac.uk/issues/issues-21-28/issue-28){target="_blank"}

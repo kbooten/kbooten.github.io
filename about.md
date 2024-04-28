@@ -10,12 +10,9 @@ M.F.A., University of Michigan, Ann Arbor
   
 A.B., Princeton University  
   
-Researching digital literacies  
+<br>  
+Researching the algorithmic mediation of thought, especially poetic thought  
   
-&
-  
-Computer-generated & -mediated literature  
-
 
 
 ###### [site made with pandoc+markdown](https://github.com/kbooten/kbooten.github.io){target="_blank"}

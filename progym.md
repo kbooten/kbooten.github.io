@@ -20,9 +20,9 @@ A preliminary paper can be found in the [proceedings of the ICCC (2019)](http://
     - [paper](https://electronicbookreview.com/essay/making-writing-harder-computer-mediated-authorship-and-the-problem-of-care/){target="_blank"}
 * [Parapraxis Mirror](https://taper.badquar.to/2/parapraxis_mirror.html)
     - poems in DENVER QUARTERLY #53 (print)
-  
 
-    
+<br>
+
 I have presented on some of these word-gyms (and their attendant slogan: "Make writing harder!") at venues including:
 
 * "Machine as Human/Human as Machine" (symposium at Iowa State, 2024)

@@ -12,7 +12,7 @@
 
 * [Article on the algorithmic mediation of writing and the concept of care in ELECTRONIC BOOK REVIEW](https://electronicbookreview.com/essay/making-writing-harder-computer-mediated-authorship-and-the-problem-of-care/){target="_blank"} 
 
-* [Short paper on computational interfaces for/by poets in Creativity and Cognition 2021, with Katy Gero](https://dl.acm.org/doi/abs/10.1145/3450741.3466813){target="_blank"}
+* [Short paper on computational interfaces for/by poets in CREATIVITY AND COGNITION 2021, with Katy Gero](https://dl.acm.org/doi/abs/10.1145/3450741.3466813){target="_blank"}
 
 * Paper on [a writing-coach that forbids common syntax patterns](https://github.com/kbooten/stylevise) in [FLUSSER STUDIES \#30](https://www.flusserstudies.net/person/kyle-booten){target="_blank"}
  
@@ -20,7 +20,7 @@
 
 * [Several poems in FENCE \#37-\#38](https://reader.exacteditions.com/issues/93390/spread/7){target="_blank"}
 
-* [Article on crowdsourcing literary interpretation in the proceedings of ELO 2018 (LES PRESSES DE L'ÉCUREUIL)](http://nt2.uqam.ca/sites/nt2.uqam.ca/files/fichiers/page/attention_a_la_marche_mind_the_gap_dirige_par_-_edited_by_bertrand_gervais_sophie_marcotte.pdf#page=422)
+* [Article on crowdsourcing literary interpretation in select proceedings of ELO 2018](https://www.lespressesdelecureuil.net/product/elo-2018/){target="_blank"}
 
 <!-- * [Brief talk on poetic HCI, with Katy Gero, at DH2020](https://dh2020.adho.org/wp-content/uploads/2020/07/640_PoetryMachinesEmpoweringCreativeWriterstoDesignDHTools.html){target="_blank"} -->
 

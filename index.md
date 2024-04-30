@@ -1,3 +1,7 @@
+* Two examples of "noöhacking" in TAPER #12 (TOOLS)
+    - [FloraNote, a garden-like note-taking app where notes must be periodically weeded](https://taper.badquar.to/12/floranote.html){target="_blank"}
+    - [Yearlong Meditation App](https://taper.badquar.to/12/yearlong_meditation_app.html){target="_blank"}
+
 * [Poems injected with allusions in BLACKBOX MANIFOLD #31](https://blackboxmanifold.sites.sheffield.ac.uk/issues/issue-31/kylebootenbm31){target="_blank"}
 
 * [A linguistic exercise in THE VIRTUAL SENTENCE (CABINET 2024)](https://www.cabinetmagazine.org/books/the_virtual_sentence.php){target="_blank"}

@@ -13,6 +13,7 @@ A preliminary paper can be found in the [proceedings of the ICCC (2019)](http://
 * [Style🗜Vise](https://github.com/kbooten/stylevise){target="_blank"}
     - [paper](https://www.flusserstudies.net/person/kyle-booten){target="_blank"}
 * [Pindar Horace Hordar](https://github.com/kbooten/pindar_horace_hordar){target="_blank"}
+    * [blog](https://nickm.com/post/2024/05/grams-fairy-tales-manual-grimoire/){target="_blank"}
 * [Manual Style Transfer](https://github.com/kbooten/manualstyletransfer){target="_blank"}
 * [Low Phreak](https://github.com/kbooten/lowphreak){target="_blank"}
 * [Alternating Current](https://github.com/kbooten/alternatingcurrent){target="_blank"}

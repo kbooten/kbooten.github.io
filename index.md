@@ -1,4 +1,4 @@
-* Two examples of "noöhacking" in TAPER #12 (TOOLS)
+* Two examples of [noöhacking](noohacking.html) in TAPER #12 (TOOLS)
     - [FloraNote, a garden-like note-taking app where notes must be periodically weeded](https://taper.badquar.to/12/floranote.html){target="_blank"}
     - [Yearlong Meditation App](https://taper.badquar.to/12/yearlong_meditation_app.html){target="_blank"}
 
@@ -54,9 +54,9 @@ Press)](https://www.fulcrum.org/epubs/zp38wf11f?locale=en#/OEBPS/DeKosnik-0021.x
   
 <!-- * "How Do Computers Read?" (Panel, MLA 2019, Chicago) -->
   
-* [Two minimal (&lt;2KB) interfaces in TAPER
-\#2](http://taper.badquar.to/2/){target="_blank"}
-    * [Descriptions](resources/taper2expl.txt){target="_blank"}
+* Two small (&lt;2KB) codeworks in TAPER \#2
+    - [a hand-operated machine learning system for poetry](https://taper.badquar.to/2/local_optimum.html)
+    - [a text-input interface with Freudian slips](https://taper.badquar.to/2/parapraxis_mirror.html)
   
 <!-- * Partially-computer-generated long poem excerpted
     - [in BOSTON REVIEW](https://store.bostonreview.net/media/1621.pdf){target="_blank"}

@@ -4,8 +4,8 @@ A salon is a success if its guests are more insightful together than they would 
 
 This salon is another example of what I call a ["word-gym"](progym.html).
 
-***
+<br>
 
-Salon des Fantômes is also the name of the software that made the book possible, an infernally complicated Python "wrapper" that both manages the salon and uses relatively "unintelligent" techniques of text-generation to create prompts.  My goal was to explore the ways that these older, simpler techniques---far from outmoded---could be crucial for making AI stranger and more worth talking too.
+Salon des Fantômes is also the name of the software that made the book possible, an intricate LLM "wrapper" that both manages the salon and uses relatively "unintelligent" techniques of text-generation to create prompts.  My goal was to explore the ways that these older, simpler techniques---far from outmoded---could be crucial for making AI stranger and more worth talking too.
 
 Code available [here](https://github.com/kbooten/salon_des_fantomes/tree/main){target="_blank"}.

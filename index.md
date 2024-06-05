@@ -1,3 +1,6 @@
+* ["Leaping Loom," a small computer-generated poetic form, in OUR GENERATION (BAD QUARTO)](https://badquar.to/publications/our_generation.html){target="_blank"}
+    * [code](resources/leaping_loom.txt){target="_blank"}
+
 * Two examples of [noöhacking](noohacking.html) in TAPER #12 (TOOLS)
     - [FloraNote, a garden-like note-taking app where notes must be periodically weeded](https://taper.badquar.to/12/floranote.html){target="_blank"}
     - [Yearlong Meditation App](https://taper.badquar.to/12/yearlong_meditation_app.html){target="_blank"}

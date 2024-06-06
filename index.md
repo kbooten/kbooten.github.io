@@ -1,4 +1,4 @@
-* ["Leaping Loom," a small computer-generated poetic form, in OUR GENERATION (BAD QUARTO)](https://badquar.to/publications/our_generation.html){target="_blank"}
+* "Leaping Loom," a small computer-generated poetic form, in [OUR GENERATION (BAD QUARTO)](https://badquar.to/publications/our_generation.html){target="_blank"}
     * [code](resources/leaping_loom.txt){target="_blank"}
 
 * Two examples of [noöhacking](noohacking.html) in TAPER #12 (TOOLS)

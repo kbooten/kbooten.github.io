@@ -6,7 +6,7 @@ title: Kyle Booten
 
 ##### [Noöhacking](noohacking.html)
 
-##### [Word-Gyms](progym.html)
+##### [Word Gyms](progym.html)
 
 ##### [Salon des Fantômes](salon.html)
 

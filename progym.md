@@ -1,4 +1,4 @@
-*Progymnasmata* were classical rhetorical exercises meant to train the mind just as physical exercises train the body. *Word-Gyms* is a project that investigates the ways that Natural Language Processing can be integrated into tools and games that re-train linguistic faculties. It is an example of Digital Humanities research for the development of "noötechnics" (Bernard Stiegler).
+*Progymnasmata* were classical rhetorical exercises meant to train the mind just as physical exercises train the body. *Word Gyms* is an ongoing project that investigates the ways that Natural Language Processing can be integrated into tools and games that re-train linguistic faculties. It is an example of Digital Humanities research for the development of "noötechnics" (Bernard Stiegler).
 
 A preliminary paper can be found in the [proceedings of the ICCC (2019)](http://computationalcreativity.net/iccc2019/assets/iccc_proceedings_2019.pdf#page=15){target="_blank"}. Examples of digital progymnasmata include:
 
@@ -24,7 +24,7 @@ A preliminary paper can be found in the [proceedings of the ICCC (2019)](http://
 
 <br>
 
-I have presented on some of these word-gyms (and their attendant slogan: "Make writing harder!") at venues including:
+I have presented on some of these word gyms (and their attendant slogan: "Make writing harder!") at venues including:
 
 * "Machine as Human/Human as Machine" (symposium at Iowa State, 2024)
 * "AI FUTURES" (roundtable via Critical AI @ Rutgers, 2023)

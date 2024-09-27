@@ -11,8 +11,11 @@
     div.columns{display: flex; gap: min(4vw, 1.5em);}
     div.column{flex: auto; overflow-x: auto;}
     div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
-    ul.task-list{list-style: none;}
+    /* The extra [class] is a hack that increases specificity enough to
+       override a similar rule in reveal.js */
+    ul.task-list[class]{list-style: none;}
     ul.task-list li input[type="checkbox"] {
+      font-size: inherit;
       width: 0.8em;
       margin: 0 0.8em 0.2em -1.6em;
       vertical-align: middle;
@@ -20,9 +23,6 @@
     .display.math{display: block; text-align: center; margin: 0.5rem auto;}
   </style>
   <link rel="stylesheet" href="false" />
-  <!--[if lt IE 9]>
-    <script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv-printshiv.min.js"></script>
-  <![endif]-->
 </head>
 <body><div>
 <header id="title-block-header">
@@ -45,10 +45,12 @@ Gyms</em> is an ongoing project that investigates the ways that Natural
 Language Processing can be integrated into tools and games that re-train
 linguistic faculties. It is an example of Digital Humanities research
 for the development of “noötechnics” (Bernard Stiegler).</p>
-<p>A preliminary paper can be found in the <a
-href="http://computationalcreativity.net/iccc2019/assets/iccc_proceedings_2019.pdf#page=15"
-target="_blank">proceedings of the ICCC (2019)</a>. Examples of digital
-progymnasmata include:</p>
+<p>See an <a
+href="https://read.dukeupress.edu/critical-ai/article/doi/10.1215/2834703X-11205189/390865/Build-Word-Gyms-Not-Word-Factories?guestAccessKey=494190cc-59d2-43d2-bdff-6b162571ceac"
+target="_blank">article on Word Gyms (“Build Word Gyms, Not Word
+Factories”) in CRITICAL AI #2</a>.</p>
+<p><br></p>
+<p>Examples of digital progymnasmata include:</p>
 <ul>
 <li><a href="https://github.com/kbooten/lotuschorusworkshop"
 target="_blank">Lotus Chorus Workshop</a>
@@ -102,6 +104,11 @@ Mirror</a>
 <li>poems in DENVER QUARTERLY #53 (print)</li>
 </ul></li>
 </ul>
+<!-- * [Progym]()
+
+
+A preliminary paper can be found in the [proceedings of the ICCC (2019)](http://computationalcreativity.net/iccc2019/assets/iccc_proceedings_2019.pdf#page=15){target="_blank"}. 
+ -->
 <p><br></p>
 <p>I have presented on some of these word gyms (and their attendant
 slogan: “Make writing harder!”) at venues including:</p>

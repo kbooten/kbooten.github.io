@@ -1,7 +1,10 @@
 *Progymnasmata* were classical rhetorical exercises meant to train the mind just as physical exercises train the body. *Word Gyms* is an ongoing project that investigates the ways that Natural Language Processing can be integrated into tools and games that re-train linguistic faculties. It is an example of Digital Humanities research for the development of "noötechnics" (Bernard Stiegler).
 
-A preliminary paper can be found in the [proceedings of the ICCC (2019)](http://computationalcreativity.net/iccc2019/assets/iccc_proceedings_2019.pdf#page=15){target="_blank"}. Examples of digital progymnasmata include:
+See an [article on Word Gyms ("Build Word Gyms, Not Word Factories") in CRITICAL AI #2](https://read.dukeupress.edu/critical-ai/article/doi/10.1215/2834703X-11205189/390865/Build-Word-Gyms-Not-Word-Factories?guestAccessKey=494190cc-59d2-43d2-bdff-6b162571ceac){target="_blank"}.
 
+<br>
+
+Examples of digital progymnasmata include:
 
 * [Lotus Chorus Workshop](https://github.com/kbooten/lotuschorusworkshop){target="_blank"}
     - [paper](https://2023.xcoax.org/pdf/booten.pdf){target="_blank"}
@@ -21,7 +24,12 @@ A preliminary paper can be found in the [proceedings of the ICCC (2019)](http://
     - [paper](https://electronicbookreview.com/essay/making-writing-harder-computer-mediated-authorship-and-the-problem-of-care/){target="_blank"}
 * [Parapraxis Mirror](https://taper.badquar.to/2/parapraxis_mirror.html)
     - poems in DENVER QUARTERLY #53 (print)
+    
+<!-- * [Progym]()
 
+
+A preliminary paper can be found in the [proceedings of the ICCC (2019)](http://computationalcreativity.net/iccc2019/assets/iccc_proceedings_2019.pdf#page=15){target="_blank"}. 
+ -->
 <br>
 
 I have presented on some of these word gyms (and their attendant slogan: "Make writing harder!") at venues including:

@@ -4,18 +4,21 @@ title: Kyle Booten
 
 ***
 
-##### [Noöhacking](noohacking.html)
+##### [BOOK: Gyms](gymsbook.html)
 
-##### [Word Gyms](progym.html)
-
-##### [Salon des Fantômes](salon.html)
+##### [BOOK: Salon des Fantômes](salon.html)
 
 <!-- ##### [To Pray Without Ceasing](topray.html)
  -->
 
-##### [Ensemble Park](ensemble.html)
+##### [EDITORIAL: Ensemble Park](ensemble.html)
 
-##### [Selected Publications](index.html)
+##### [CONCEPT: Noöhacking](noohacking.html)
+
+##### [CONCEPT: Word Gyms](progym.html)
+
+
+##### [VARIOUS: Selected Publications](index.html)
 
 ##### [About](about.html)
 

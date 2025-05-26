@@ -1,10 +1,13 @@
+
+* [New book: GYMS (dispersed holdings 2025)](/https://github.com/kbooten/gymsbook)
+
 * [Article on "Word Gyms" in CRITICAL AI #2](https://read.dukeupress.edu/critical-ai/article/doi/10.1215/2834703X-11205189/390865/Build-Word-Gyms-Not-Word-Factories?guestAccessKey=494190cc-59d2-43d2-bdff-6b162571ceac){target="_blank"}
 
 * [Poems injected with allusions in BLACKBOX MANIFOLD #31](https://blackboxmanifold.sites.sheffield.ac.uk/issues/issue-31/kylebootenbm31){target="_blank"}
 
-* Two examples of [noöhacking](noohacking.html) in TAPER #12 (TOOLS)
+<!-- * Two examples of [noöhacking](noohacking.html) in TAPER #12 (TOOLS)
     - [FloraNote, a garden-like note-taking app where notes must be periodically weeded](https://taper.badquar.to/12/floranote.html){target="_blank"}
-    - [Yearlong Meditation App](https://taper.badquar.to/12/yearlong_meditation_app.html){target="_blank"}
+    - [Yearlong Meditation App](https://taper.badquar.to/12/yearlong_meditation_app.html){target="_blank"} -->
 
 * [A linguistic exercise in THE VIRTUAL SENTENCE (CABINET 2024)](https://www.cabinetmagazine.org/books/the_virtual_sentence.php){target="_blank"}
 
@@ -17,9 +20,11 @@
 
 * [Paper on the development of a Keatsian Chrome extension in ELECTRONIC BOOK REVIEW](https://electronicbookreview.com/essay/how-to-re-hijack-your-mind-critical-making-and-the-battle-for-intelligence/){target="_blank"}
 
-* [A prayer machine at XCOAX 2021 and ELO/SLSA 2021](topray.html){target="_blank"}
-
 * [Article on the algorithmic mediation of writing and the concept of care in ELECTRONIC BOOK REVIEW](https://electronicbookreview.com/essay/making-writing-harder-computer-mediated-authorship-and-the-problem-of-care/){target="_blank"} 
+
+<!-- * [A prayer machine at XCOAX 2021 and ELO/SLSA 2021](topray.html){target="_blank"}
+
+
 
 * [Short paper on computational interfaces for/by poets in CREATIVITY AND COGNITION 2021, with Katy Gero](https://dl.acm.org/doi/abs/10.1145/3450741.3466813){target="_blank"}
 
@@ -29,7 +34,7 @@
 
 * [Several poems in FENCE \#37-\#38](https://reader.exacteditions.com/issues/93390/spread/7){target="_blank"}
 
-* [Article on crowdsourcing literary interpretation in select proceedings of ELO 2018](https://www.lespressesdelecureuil.net/product/elo-2018/){target="_blank"}
+* [Article on crowdsourcing literary interpretation in select proceedings of ELO 2018](https://www.lespressesdelecureuil.net/product/elo-2018/){target="_blank"} -->
 
 <!-- * [Brief talk on poetic HCI, with Katy Gero, at DH2020](https://dh2020.adho.org/wp-content/uploads/2020/07/640_PoetryMachinesEmpoweringCreativeWriterstoDesignDHTools.html){target="_blank"} -->
 

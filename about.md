@@ -1,6 +1,6 @@
 Assistant Professor, Dept. of English, UConn, Storrs  
 
-Previous: Neukom Postdoctoral Fellow, Dartmouth College  
+<!-- Previous: Neukom Postdoctoral Fellow, Dartmouth College  
   
 Ph.D., UC Berkeley  
   
@@ -8,7 +8,7 @@ Ph.D., UC Berkeley
   
 M.F.A., University of Michigan, Ann Arbor  
   
-A.B., Princeton University  
+A.B., Princeton University   -->
   
 <br>  
 Researching the algorithmic mediation of thought, especially poetic thought  

@@ -2,26 +2,38 @@
 <html>
 <head>
   <meta charset="UTF-8">
-  <title>REG image for reading</title>
+  <title>Recursive Ekphrasis Gym image</title>
   <style>
     body {
       background: #fff;
       color: #000;
       font-family: monospace;
-      padding: 40px;
+      padding: 20px;
+      margin: 0;
     }
+
+    .block {
+      max-width: 600px;
+      margin: 0 auto;
+    }
+
     img {
-      max-width: 100%;
+      width: 100%;
+      height: auto;
       display: block;
       margin-bottom: 10px;
     }
+
     .caption {
       font-size: 14px;
+      line-height: 1.4;
     }
+
     .caption a {
-      color: #00ff00;
-      text-decoration: none;
+      color: #00cc00;
+      text-decoration: underline;
     }
+
     .caption a:hover {
       text-decoration: underline;
     }
@@ -29,10 +41,12 @@
 </head>
 <body>
 
-  <img src="https://collectionapi.metmuseum.org/api/collection/v1/iiif/625453/1380851/main-image" alt="'Figure on horseback holding a sword and riding over a figure lying on the ground, set within an elaborate frame' (Battista Angolo del Moro)" width="50%">
+  <div class="block">
+    <img src="https://collectionapi.metmuseum.org/api/collection/v1/iiif/625453/1380851/main-image" alt="'Figure on horseback holding a sword and riding over a figure lying on the ground, set within an elaborate frame' (Battista Angolo del Moro)">
 
-  <div class="caption">
-From <a href="https://asterismbooks.com/product/gyms-kyle-booten" target="_blank"><em>Gyms</em></a> (dispersed holdings 2025).  Recursive Ekphrastic Gym selects an artwork from The Met's open access collection and tasks the writer with describing its various features, recursively.
+    <div class="caption">
+      From <a href="https://asterismbooks.com/product/gyms-kyle-booten" target="_blank"><em>Gyms</em></a> (Kyle Booten, dispersed holdings 2025). Recursive Ekphrastic Gym selects an artwork from The Met's open access collection and tasks the writer with describing its various features, recursively.
+    </div>
   </div>
 
 </body>

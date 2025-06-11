@@ -1,5 +1,5 @@
 
-* [New book: GYMS (dispersed holdings 2025)](/https://github.com/kbooten/gymsbook)
+* [New book: GYMS (dispersed holdings 2025)](gymsbook.html)
 
 * [Article on "Word Gyms" in CRITICAL AI #2](https://read.dukeupress.edu/critical-ai/article/doi/10.1215/2834703X-11205189/390865/Build-Word-Gyms-Not-Word-Factories?guestAccessKey=494190cc-59d2-43d2-bdff-6b162571ceac){target="_blank"}
 

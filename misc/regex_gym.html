@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html>
+<head><meta name="viewport" content="width=device-width, initial-scale=1.0"><link rel="stylesheet" type="text/css" href="style.css"><link rel="icon" type="image/x-icon" href="favicon.ico">
+  <meta charset="UTF-8">
+  <title>Regex Gym</title>
+  <!-- 
+  Kyle Booten
+  regex gym
+  demo for talk, may 27 2025 
+  an extremely simple word-gym
+  where you define regular expressions
+  and use them to annotate your text
+  -->
+  <style>
+    input.regex,
+    input.message {
+      width: 300px;
+    }
+    #instructions{
+      color:#02b502;
+    }
+  </style>
+</head>
+<body><div>
+
+<h3>Input Text</h3>
+<textarea id="input" rows="10" cols="80" placeholder="Paste your text here..."></textarea>
+
+<h3>Annotations (Match → Message)</h3>
+<div id="instructions">
+On the left, match pattern in your text using <em>regular expressions</em>.<br>
+On the right, leave notes to annotate these textual patterns.<br><br>
+What feedback could you plan to give yourself later, after you have written?<br><br>
+What patterns do you notice in your writing that you might want to correct?<br>
+Or challenge?<br>
+Or emphasize?<br><br>
+How could you give your future self something else to think about, some other stretch to perform?<br>
+</div>
+<table>
+  <tr><td><input class="regex" placeholder="pattern 1"></td><td><input class="message" placeholder="message to yourself 1"></td></tr>
+  <tr><td><input class="regex" placeholder="pattern 2"></td><td><input class="message" placeholder="message to yourself 2"></td></tr>
+  <tr><td><input class="regex" placeholder="pattern 3"></td><td><input class="message" placeholder="message to yourself 3"></td></tr>
+  <tr><td><input class="regex" placeholder="pattern 4"></td><td><input class="message" placeholder="message to yourself 4"></td></tr>
+  <tr><td><input class="regex" placeholder="pattern 5"></td><td><input class="message" placeholder="message to yourself 5"></td></tr>
+</table>
+
+<br>
+<button onclick="run()">Apply Annotations</button>
+
+<h3>Output</h3>
+<pre id="output" style="white-space: pre-wrap;"></pre>
+
+<script>
+function run() {
+  let text = document.getElementById('input').value;
+  const regexInputs = document.querySelectorAll('.regex');
+  const messageInputs = document.querySelectorAll('.message');
+
+  for (let i = 0; i < 5; i++) {
+    const pattern = regexInputs[i].value.trim();
+    const message = messageInputs[i].value.trim();
+
+    if (pattern && message) {
+      try {
+        const regex = new RegExp(`(${pattern})`, 'gi');
+        const bracketedMsg = ` <<[${message.toUpperCase()}]`;
+        text = text.replace(regex, `$1${bracketedMsg}`);
+      } catch (e) {
+        console.warn(`Invalid regex at slot ${i + 1}: ${pattern}`);
+      }
+    }
+  }
+  document.getElementById('output').innerText = text;
+}
+</script>
+
+</div></body>
+</html>

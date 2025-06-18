@@ -11,6 +11,8 @@
 
 * [A linguistic exercise in THE VIRTUAL SENTENCE (CABINET 2024)](https://www.cabinetmagazine.org/books/the_virtual_sentence.php){target="_blank"}
 
+* [A very small sonnet gym in TAPER #14](https://taper.badquar.to/14/sonnet_gym.html){target="_blank"}
+
 * [Paper on a writing-workshop simulator at XCOAX 2023](https://2023.xcoax.org/pdf/booten.pdf){target="_blank"}
 
 * "Leaping Loom," a small computer-generated poetic form, in [OUR GENERATION (BAD QUARTO)](https://badquar.to/publications/our_generation.html){target="_blank"}

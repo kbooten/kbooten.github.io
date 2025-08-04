@@ -1,5 +1,3 @@
 dispersed holdings (2025)
 
-Poems written with nine custom "word gyms," algorithmic systems designed to place my poetic faculties under stress and strain.
-
-Find it [here](https://asterismbooks.com/product/gyms-kyle-booten){target="_blank"}.
+*Gyms*(https://asterismbooks.com/product/gyms-kyle-booten){target="_blank"} is a book of poems written with nine custom "word gyms," algorithmic systems designed to place my poetic faculties under stress and strain.  With these gyms, I attempt to use digital media---which is often so toxic---to sternly care for my own mind.  The gyms force me to deploy obscure allusions, weighty words, and off-kilter metaphorical conceits.  They twist my language beyond its normal syntax and comfortable diction.  They help me to pay close attention to works of art and to the world I inhabit.

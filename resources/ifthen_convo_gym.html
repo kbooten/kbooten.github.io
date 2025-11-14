@@ -17,7 +17,7 @@
       flex-direction: column;
       height: 100vh;
       box-sizing: border-box;
-      padding-bottom: 40px; /* <-- makes room for bottom bar */
+      padding-bottom: 40px;
     }
 
     .half {
@@ -58,113 +58,149 @@
   <div class="bottom-bar" id="bottom-bar"></div>
 
   <script>
-    // ========= CONFIG WITH TERMS =========
+
+    // ========= CONFIG WITH TERMS (REWRITTEN) =========
     const TOP_BOTTOM_ITEMS = [
       {
-        text: "JOHN CAYLEY (reviewing Aden Evens):\u00A0<a href='http://computationalculture.net/the-mesh-were-in/'>Our association with the digital cannot be one of assemblage such as Hayles proposes, it can only ever be an instrumental relation, with the animated party either dominant or willfully enabling some kind of co-dependency.'</a>",
+        text:
+"JOHN CAYLEY (reviewing Aden Evens): 'Our association with the digital cannot be one of assemblage...it can only ever be an instrumental relation, with the animated party either dominant or willfully enabling some kind of co-dependency.'\u00A0<a href='http://computationalculture.net/the-mesh-were-in/' target='_blank' rel='noopener noreferrer'>→</a>",
         terms: ["writing to be found", "transliteral morphing", "ambient language"]
       },
       {
-        text: "ADEN EVENS says\u00A0<a href='https://www.upress.umn.edu/9781517916329/the-digital-and-its-discontents/'>all digital media is made of bits. All digital media is in some sense depressing, limited, because bits cannot capture human contingency.</a>",
+        text:
+"ADEN EVENS says anything digital is made of bits. Anything digital in some sense depressing, limited, because bits cannot capture human contingency.\u00A0<a href='https://www.upress.umn.edu/9781517916329/the-digital-and-its-discontents/' target='_blank' rel='noopener noreferrer'>→</a>",
         terms: ["the 1 and the 0", "contingency", "experience"]
       },
       {
-        text: "A CONTEMPORARY WRITER says\u00A0<a href='https://x.com/bartlebytaco/status/1950256685504737621'>AI 'makes you a disappointment to god.'</a>",
+        text:
+"A CONTEMPORARY WRITER says AI 'makes you a disappointment to god.'\u00A0<a href='https://x.com/bartlebytaco/status/1950256685504737621' target='_blank' rel='noopener noreferrer'>→</a>",
         terms: ["the hatred of AI", "anti-AI fundamentalism"]
       },
       {
-        text: "BERNARD STIEGLER says 'proletarianization' is the bad thing that happens when we 1) let machines think for us AND 2) we don't do so in order to unlock some other valuable opportunity to think.",
+        text:
+"BERNARD STIEGLER says 'proletarianization' is the bad thing that happens when we 1) let machines think for us AND 2) we don't do so in order to unlock some other valuable opportunity to think.",
         terms: ["de-skilling", "unlocking a new skill", "Socrates's critique of writing"]
       },
       {
-        text: "IDEA: LLMs are evil, but small-scale text generators are not.",
-        terms: ["scale", "craft", "interpretation","the 'e-lit' scene",'resource intensiveness','quirkiness']
+        text:
+"IDEA: LLMs are evil, but small-scale text generators are not.",
+        terms: ["scale", "craft", "interpretation","the 'e-lit' scene","resource intensiveness","quirkiness"]
       },
       {
-        text: "TEXT: Lillian-Yvonne Bertram's\u00A0<a href='https://verse.press/playlist/travesty-generator-1975099943243226060'>TRAVESTY GENERATOR</a>.",
+        text:
+"TEXT: Lillian-Yvonne Bertram's TRAVESTY GENERATOR.\u00A0<a href='https://verse.press/playlist/travesty-generator-1975099943243226060' target='_blank' rel='noopener noreferrer'>→</a>",
         terms: ["computationally representing anti-black violence", "the violence of randomization","the critical repurposing of software such as text generators"]
       },
       {
-        text: "TEXT: John Cayley/Daniel C. Howe's\u00A0<a href='https://thereadersproject.org/'>READERS PROJECT</a>.",
-        terms: ["an obscure linguistic path", "reading","post-human hermeneutics"]
+        text:
+"TEXT: John Cayley/Daniel C. Howe's READERS PROJECT.\u00A0<a href='https://thereadersproject.org/' target='_blank' rel='noopener noreferrer'>→</a>",
+        terms: ["an obscure linguistic path", "post-human hermeneutics"]
       },
       {
-        text: "TEXT: Allison Parrish's\u00A0<a href='https://aparrish.s3.amazonaws.com/our-arrival.pdf'>OUR ARRIVAL</a>, a novel cobbled out of snippets of Project Gutenberg text that lack people (but contain nature).",
-        terms: ["pre-LLM Natural Language Processing", "a novel denuded of people", 'text generation that shows its seams']
+        text:
+"TEXT: Allison Parrish's OUR ARRIVAL, a novel cobbled out of snippets of Project Gutenberg text that lack people (but contain nature).\u00A0<a href='https://aparrish.s3.amazonaws.com/our-arrival.pdf' target='_blank' rel='noopener noreferrer'>→</a>",
+        terms: ["pre-LLM Natural Language Processing", "a novel denuded of people","text generation that shows its seams"]
       },
       {
-        text: "PHENOMENON: Teachers often really hate AI because it makes them change. (See: the begrudging return of 'blue book' exams.)",
+        text:
+"PHENOMENON: Teachers often really hate AI because it makes them change. (See: the begrudging return of 'blue book' exams.)",
         terms: ["AI-proofing", "formal education", "demoralization and frustration"]
       },
       {
-        text: "PHENOMENON: Homeschool parents who think AI will be their kids' private tutor.",
+        text:
+"PHENOMENON: Homeschool parents who think AI will be their kids' private tutor.",
         terms: ["Bloom's 2-Sigma Problem", "the privatization/individualization of education", "competitiveness in a knowledge economy"]
       },
       {
-        text: "TEXT: My new book\u00A0<a href='https://asterismbooks.com/product/gyms-kyle-booten'>GYMS</a>.",
-        terms: ["the effort to make writing harder", "noetic training",'recommending allusions from wikipedia','semi-intelligent feedback','treating computer-generated text as utilitarian','poetry as educational technology']
+        text:
+"TEXT: My new book GYMS.\u00A0<a href='https://asterismbooks.com/product/gyms-kyle-booten' target='_blank' rel='noopener noreferrer'>→</a>",
+        terms: ["the effort to make writing harder", "noetic training","recommending allusions from wikipedia","semi-intelligent feedback","treating computer-generated text as utilitarian","poetry as educational technology"]
       },
       {
-        text: "TEXT: Nick Montfort's\u00A0<a href='https://nickm.com/poems/taroko_gorge/'>TAROKO GORGE</a>.",
+        text:
+"TEXT: Nick Montfort's TAROKO GORGE.\u00A0<a href='https://nickm.com/poems/taroko_gorge/' target='_blank' rel='noopener noreferrer'>→</a>",
         terms: ["the computational representation of nature", "infinitude", "sublimity", "quietude"]
       },
       {
-        text: "IDEA: if LLMs are evil, what if our beloved quirky small-scale text generators have also always been evil, and indeed presaged LLMS?",
-        terms: ["scale", "brittle-ness", "Theo Lutz as Satanic John-the-Baptist"]
+        text:
+"IDEA: if LLMs are evil, what if our beloved quirky small-scale text generators have also always been evil, and indeed presaged LLMS?",
+        terms: ["scale", "brittleness", "Theo Lutz as Satanic John-the-Baptist"]
       },
       {
-        text: "IDEA: The Big Flip: Prior to ChatGPT, 'computer-generated text' was provocative in its implicit anti-anthropocentrism (What if a simple piece of code can craft a cool poem?). now, computer-generated text has flipped to seeming hegemonic, and so writing without computation is provocative.",
+        text:
+"IDEA: The Big Flip: Prior to ChatGPT, 'computer-generated text' was provocative in its implicit anti-anthropocentrism (What if a simple piece of code can craft a cool poem?). now, computer-generated text has flipped to seeming hegemonic, and so writing without computation is provocative.",
         terms: ["provocation", "hegemony", "autonomy"]
       },
       {
-        text: "IDEA: The sonnet form is an algorithm (abab bcbc ...) that helps us think, and it takes no electricity.",
+        text:
+"IDEA: The sonnet form is an algorithm (abab bcbc ...) that helps us think, and it needs no electricity, no capital.",
         terms: ["repetition", "cognitive ergonomics", "pattern"]
       },
       {
-        text: "BENJAMIN H. BRATTON says\u00A0<a href='https://afteralignment.antikythera.org/'>AI 'alignment' is a stupid goal. We should aim for 'productive disalignment.'</a>",
+        text:
+"BENJAMIN H. BRATTON says AI 'alignment' is a stupid goal. We should aim for 'productive disalignment.'\u00A0<a href='https://afteralignment.antikythera.org/' target='_blank' rel='noopener noreferrer'>→</a>",
         terms: ["disalignment","thinking with+against non-human 'intelligences'"]
       },
       {
-        text: "N. KATHERINE HAYLES says we should resist anthropocentrism by entertaining the ways that other entities---like AI, like bacteria---have their own modes of cognition.",
-        terms: ["idea of 'cognitive assemblages'","a broader definition of 'cognition'",'anthropocentrism']
+        text:
+"N. KATHERINE HAYLES says we should resist anthropocentrism by entertaining the ways that other entities---like AI, like bacteria---have their own modes of cognition.",
+        terms: ["idea of 'cognitive assemblages'","a broader definition of 'cognition'","anthropocentrism"]
       },
       {
-        text: "MICROSOFT says that, in the near future, work will be\u00A0<a href='https://assets-c4akfrf5b4d3f4b7.z01.azurefd.net/assets/2025/04/WTI-2025-04-The-Year-the-Frontier-v13_68535917c7c2a.pdf'>'human led, agent operated.'</a>",
+        text:
+"MICROSOFT says that, in the near future, work will be 'human led, agent operated.'\u00A0<a href='https://assets-c4akfrf5b4d3f4b7.z01.azurefd.net/assets/2025/04/WTI-2025-04-The-Year-the-Frontier-v13_68535917c7c2a.pdf' target='_blank' rel='noopener noreferrer'>→</a>",
         terms: ["leadership","work","the use of AI in organizations"]
       },
       {
-        text: "LAURENT DUBREIL:\u00A0<a href='https://fordhampress.com/poetry-and-mind-hb-9780823279630.html'>Poetry tends to exceed its own algorithms.'</a>",
+        text:
+"LAURENT DUBREIL: 'Poetry tends to exceed its own algorithms.'\u00A0<a href='https://fordhampress.com/poetry-and-mind-hb-9780823279630.html' target='_blank' rel='noopener noreferrer'>→</a>",
         terms: ["excess","algorithmic logic","poetry","thought"]
       },
       {
-        text: "TERM: 'AI AGENT'",
-        terms: ["agency","embodiment","the feeling of controlling an army of agents",'power','the way that algorithms operate within infrastructure']
+        text:
+"TERM: 'AI AGENT'",
+        terms: ["agency","embodiment","the feeling of controlling an army of agents","power","the way that algorithms operate within infrastructure"]
       },
       {
-        text: "TERM: 'VIBE *'   (vibe coding and other vibe actions)",
-        terms: ["ease","speed","the dream of 'no-code' coding",'the dream of effortlessly bespoke software','the dream of the end of programming as such']
+        text:
+"TERM: 'VIBE *'  (vibe coding and other vibe actions)",
+        terms: ["ease","speed","the dream of 'no-code' coding","the dream of effortlessly bespoke software","the dream of the end of programming as such"]
       },
       {
-        text: "PHENOMENON: This website, which is a kind of algorithmic 'gym' for semi-public conversation.",
-        terms: ["conversation","public thought","notes and other collections of data",'mere randomization']
+        text:
+"PHENOMENON: This website, which is a kind of algorithmic 'gym' for semi-public conversation.",
+        terms: ["conversation","public thought","notes and other collections of data","mere randomization"]
       },
       {
-        text: "PHENOMENON: People use 'creative writing' as an AI benchmark.",
-        terms: ["literary taste and its lack","whatever this poetry-like substance is","poetry's strange, stupid 'importance' in AI traiing/testing",'a general decline in literacy','idiocy',"the repressed hatred of art"]
+        text:
+"PHENOMENON: People use 'creative writing' as an AI benchmark.",
+        terms: ["literary taste and its lack","whatever this poetry-like substance is","poetry's strange, stupid 'importance' in AI training/testing","a general decline in literacy","idiocy","the repressed hatred of art"]
       },
       {
-        text: "BENDER ET. AL: LLMs are merely 'stochastic parrots'",
+        text:
+"BENDER ET AL. say LLMs are merely 'stochastic parrots'",
         terms: ["the concept of 'stochastic'","the concept of 'parrot'","the concept of a 'language model'"]
       },
       {
-        text: "PHENOMENON: AI is biased (racist, for instance) and 'reinforcement learning with human feedback' is still a major way of combatting bias.",
-        terms: ["bias","the way that RLHF is trained",'morality','morality and its relationship to statistics']
+        text:
+"PHENOMENON: AI is biased (racist, for instance) and 'reinforcement learning with human feedback' is still a major way of combatting bias.",
+        terms: ["bias","the way that RLHF is trained","morality","morality and its relationship to statistics"]
+      },
+      {
+        text:
+"PHENOMENON: AI 'slop' (vs. AI 'kino').",
+        terms: ["slop","overwhelming quantity","our vocabulary for talking about AI aesthetics"]
+      },
+      {
+        text:
+        "THE WALL STREET JOURNAL wonders if AI will 'widen the gap between superstars and everybody else.'",
+        terms: ['neoliberal competition',"'For whoever has, to him more will be given' (Matthew 13:12)"]
       },
     ];
 
-    const SLOT_LENGTH = 120000; // /1000=seconds 
+    const SLOT_LENGTH = 120000; // 2 minutes
 
-    // ========= Random Generator =========
+    // ========= RANDOM GEN =========
     function mulberry32(seed) {
       return function() {
         let t = seed += 0x6D2B79F5;
@@ -185,7 +221,7 @@
       return Math.floor(rng() * n);
     }
 
-    // ========= GLOBAL STATE =========
+    // ========= STATE =========
     let currentTopIndex = 0;
     let currentBottomIndex = 1;
 
@@ -201,31 +237,29 @@
         bottomItem.terms[randInt(rng, bottomItem.terms.length)].toUpperCase();
 
       bar.innerHTML =
-        `What might <span class="highlight">${topTerm}</span> have to do with `
-        + `<span class="highlight">${bottomTerm}</span>?`;
+        `What might <span class="highlight">${topTerm}</span> have to do with ` +
+        `<span class="highlight">${bottomTerm}</span>?`;
     }
 
-    // ========= DETERMINISTIC INITIALIZATION (FULL SYNC) =========
+    // ========= INITIALIZATION =========
     function initializeMessages() {
       const { rng, slot } = currentRng();
 
-      // Deterministic message selection based on slot
       currentTopIndex = slot % TOP_BOTTOM_ITEMS.length;
       currentBottomIndex = (slot + 1) % TOP_BOTTOM_ITEMS.length;
 
       document.getElementById("top-message").innerHTML =
         TOP_BOTTOM_ITEMS[currentTopIndex].text;
-
       document.getElementById("bottom-message").innerHTML =
         TOP_BOTTOM_ITEMS[currentBottomIndex].text;
 
       updateBottomBar(rng);
     }
 
-    // ========= UPDATE ONLY ONE MAIN AREA =========
+    // ========= UPDATE ONE =========
     function updateOneMessage() {
       const { rng } = currentRng();
-      const which = randInt(rng, 2); // 0 = top, 1 = bottom
+      const which = randInt(rng, 2);
 
       if (which === 0) {
         let newTop = randInt(rng, TOP_BOTTOM_ITEMS.length);
@@ -236,6 +270,7 @@
 
         document.getElementById("top-message").innerHTML =
           TOP_BOTTOM_ITEMS[newTop].text;
+
       } else {
         let newBottom = randInt(rng, TOP_BOTTOM_ITEMS.length);
         if (newBottom === currentTopIndex) {
@@ -250,7 +285,7 @@
       updateBottomBar(rng);
     }
 
-    // ========= SYNCHRONIZED TIMER =========
+    // ========= SYNCED TIMER =========
     function scheduleNextUpdate() {
       const now = Date.now();
       const msToNext = SLOT_LENGTH - (now % SLOT_LENGTH);
@@ -261,9 +296,9 @@
       }, msToNext + 10);
     }
 
-    // ========= START =========
     initializeMessages();
     scheduleNextUpdate();
   </script>
 </body>
 </html>
+

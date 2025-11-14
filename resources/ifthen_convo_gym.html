@@ -30,21 +30,19 @@
       padding: 10px;
     }
 
-    /* Bottom bar (formerly sidebar) */
     .bottom-bar {
       position: fixed;
       bottom: 0;
       left: 0;
       right: 0;
       padding: 6px 12px;
-      color: #888;              /* light gray */
+      color: #888;
       font-size: 1rem;
-      text-align: right;        /* RIGHT-JUSTIFIED */
-      background: white;        /* optional, can remove */
+      text-align: right;
+      background: white;
       box-sizing: border-box;
     }
 
-    /* Highlighted terms */
     .highlight {
       background: yellow;
       font-weight: bold;
@@ -57,22 +55,21 @@
   <div class="half" id="top-message"></div>
   <div class="half" id="bottom-message"></div>
 
-  <!-- Bottom bar text (formerly sidebar) -->
   <div class="bottom-bar" id="bottom-bar"></div>
 
   <script>
     // ========= CONFIG WITH TERMS =========
     const TOP_BOTTOM_ITEMS = [
       {
-        text: "JOHN CAYLEY (reviewing Aden Evens): <a href='http://computationalculture.net/the-mesh-were-in/'>Our association with the digital cannot be one of assemblage such as Hayles proposes, it can only ever be an instrumental relation, with the animated party either dominant or willfully enabling some kind of co-dependency.'</a>",
+        text: "JOHN CAYLEY (reviewing Aden Evens):\u00A0<a href='http://computationalculture.net/the-mesh-were-in/'>Our association with the digital cannot be one of assemblage such as Hayles proposes, it can only ever be an instrumental relation, with the animated party either dominant or willfully enabling some kind of co-dependency.'</a>",
         terms: ["writing to be found", "transliteral morphing", "ambient language"]
       },
       {
-        text: "ADEN EVENS says <a href='https://www.upress.umn.edu/9781517916329/the-digital-and-its-discontents/'>all digital media is made of bits. All digital media is in some sense depressing, limited, because bits cannot capture human contingency.</a>",
+        text: "ADEN EVENS says\u00A0<a href='https://www.upress.umn.edu/9781517916329/the-digital-and-its-discontents/'>all digital media is made of bits. All digital media is in some sense depressing, limited, because bits cannot capture human contingency.</a>",
         terms: ["the 1 and the 0", "contingency", "experience"]
       },
       {
-        text: "A CONTEMPORARY WRITER says <a href='https://x.com/bartlebytaco/status/1950256685504737621'>AI 'makes you a disappointment to god.'</a>",
+        text: "A CONTEMPORARY WRITER says\u00A0<a href='https://x.com/bartlebytaco/status/1950256685504737621'>AI 'makes you a disappointment to god.'</a>",
         terms: ["the hatred of AI", "anti-AI fundamentalism"]
       },
       {
@@ -84,31 +81,31 @@
         terms: ["scale", "craft", "interpretation","the 'e-lit' scene",'resource intensiveness','quirkiness']
       },
       {
-        text: "TEXT: Lillian-Yvonne Bertram's TRAVESTY GENERATOR.",
+        text: "TEXT: Lillian-Yvonne Bertram's\u00A0<a href='https://verse.press/playlist/travesty-generator-1975099943243226060'>TRAVESTY GENERATOR</a>.",
         terms: ["computationally representing anti-black violence", "the violence of randomization","the critical repurposing of software such as text generators"]
       },
       {
-        text: "TEXT: John Cayley/Daniel C. Howe's <a href='https://thereadersproject.org/'>READERS PROJECT</a>.",
+        text: "TEXT: John Cayley/Daniel C. Howe's\u00A0<a href='https://thereadersproject.org/'>READERS PROJECT</a>.",
         terms: ["an obscure linguistic path", "reading","post-human hermeneutics"]
       },
       {
-        text: "TEXT: Allison Parrish's <a href='https://aparrish.s3.amazonaws.com/our-arrival.pdf'>OUR ARRIVAL</a>.",
-        terms: ["pre-LLM Natural Language Processing", "a novel denuded of people", 'machine reading','NaNoGenMo']
+        text: "TEXT: Allison Parrish's\u00A0<a href='https://aparrish.s3.amazonaws.com/our-arrival.pdf'>OUR ARRIVAL</a>, a novel cobbled out of snippets of Project Gutenberg text that lack people (but contain nature).",
+        terms: ["pre-LLM Natural Language Processing", "a novel denuded of people", 'text generation that shows its seams']
       },
       {
         text: "PHENOMENON: Teachers often really hate AI because it makes them change. (See: the begrudging return of 'blue book' exams.)",
-        terms: ["AI-proofing", "formal education", "the testability of learning/knowledge"]
+        terms: ["AI-proofing", "formal education", "demoralization and frustration"]
       },
       {
         text: "PHENOMENON: Homeschool parents who think AI will be their kids' private tutor.",
         terms: ["Bloom's 2-Sigma Problem", "the privatization/individualization of education", "competitiveness in a knowledge economy"]
       },
       {
-        text: "TEXT: My new book <a href='https://asterismbooks.com/product/gyms-kyle-booten'>GYMS</a>.",
+        text: "TEXT: My new book\u00A0<a href='https://asterismbooks.com/product/gyms-kyle-booten'>GYMS</a>.",
         terms: ["the effort to make writing harder", "noetic training",'recommending allusions from wikipedia','semi-intelligent feedback','treating computer-generated text as utilitarian','poetry as educational technology']
       },
       {
-        text: "TEXT: Nick Montfort's <a href='https://nickm.com/poems/taroko_gorge/'>TAROKO GORGE</a>.",
+        text: "TEXT: Nick Montfort's\u00A0<a href='https://nickm.com/poems/taroko_gorge/'>TAROKO GORGE</a>.",
         terms: ["the computational representation of nature", "infinitude", "sublimity", "quietude"]
       },
       {
@@ -124,7 +121,7 @@
         terms: ["repetition", "cognitive ergonomics", "pattern"]
       },
       {
-        text: "BENJAMIN H. BRATTON says <a href='https://afteralignment.antikythera.org/'>AI 'alignment' is a stupid goal. We should aim for 'productive disalignment.'</a>",
+        text: "BENJAMIN H. BRATTON says\u00A0<a href='https://afteralignment.antikythera.org/'>AI 'alignment' is a stupid goal. We should aim for 'productive disalignment.'</a>",
         terms: ["disalignment","thinking with+against non-human 'intelligences'"]
       },
       {
@@ -132,11 +129,11 @@
         terms: ["idea of 'cognitive assemblages'","a broader definition of 'cognition'",'anthropocentrism']
       },
       {
-        text: "MICROSOFT says that, in the near future, work will be <a href='https://assets-c4akfrf5b4d3f4b7.z01.azurefd.net/assets/2025/04/WTI-2025-04-The-Year-the-Frontier-v13_68535917c7c2a.pdf'>'human led, agent operated.'</a>",
+        text: "MICROSOFT says that, in the near future, work will be\u00A0<a href='https://assets-c4akfrf5b4d3f4b7.z01.azurefd.net/assets/2025/04/WTI-2025-04-The-Year-the-Frontier-v13_68535917c7c2a.pdf'>'human led, agent operated.'</a>",
         terms: ["leadership","work","the use of AI in organizations"]
       },
       {
-        text: "LAURENT DUBREIL: <a href='https://fordhampress.com/poetry-and-mind-hb-9780823279630.html'>Poetry tends to exceed its own algorithms.'</a>",
+        text: "LAURENT DUBREIL:\u00A0<a href='https://fordhampress.com/poetry-and-mind-hb-9780823279630.html'>Poetry tends to exceed its own algorithms.'</a>",
         terms: ["excess","algorithmic logic","poetry","thought"]
       },
       {
@@ -165,7 +162,7 @@
       },
     ];
 
-    const SLOT_LENGTH = 30000; // 30 seconds
+    const SLOT_LENGTH = 120000; // /1000=seconds 
 
     // ========= Random Generator =========
     function mulberry32(seed) {
@@ -181,43 +178,40 @@
       const now = Date.now();
       const slot = Math.floor(now / SLOT_LENGTH);
       const seed = (slot ^ 0xDEADBEEF) >>> 0;
-      return mulberry32(seed);
+      return { rng: mulberry32(seed), slot };
     }
 
     function randInt(rng, n) {
       return Math.floor(rng() * n);
     }
 
-    function pickRandomTerm(rng, terms) {
-      if (!terms || terms.length === 0) return "";
-      return terms[randInt(rng, terms.length)].toUpperCase();
-    }
-
     // ========= GLOBAL STATE =========
     let currentTopIndex = 0;
     let currentBottomIndex = 1;
 
-    // ========= Generate Bottom-Bar Text =========
     function updateBottomBar(rng) {
       const bar = document.getElementById("bottom-bar");
 
       const topItem = TOP_BOTTOM_ITEMS[currentTopIndex];
       const bottomItem = TOP_BOTTOM_ITEMS[currentBottomIndex];
 
-      const topTerm = pickRandomTerm(rng, topItem.terms);
-      const bottomTerm = pickRandomTerm(rng, bottomItem.terms);
+      const topTerm =
+        topItem.terms[randInt(rng, topItem.terms.length)].toUpperCase();
+      const bottomTerm =
+        bottomItem.terms[randInt(rng, bottomItem.terms.length)].toUpperCase();
 
       bar.innerHTML =
-        `What might <span class="highlight">${topTerm}</span> `
-        + `have to do with <span class="highlight">${bottomTerm}</span>?`;
+        `What might <span class="highlight">${topTerm}</span> have to do with `
+        + `<span class="highlight">${bottomTerm}</span>?`;
     }
 
-    // ========= INITIALIZATION =========
+    // ========= DETERMINISTIC INITIALIZATION (FULL SYNC) =========
     function initializeMessages() {
-      const rng = currentRng();
+      const { rng, slot } = currentRng();
 
-      currentTopIndex = randInt(rng, TOP_BOTTOM_ITEMS.length);
-      currentBottomIndex = (currentTopIndex + 1) % TOP_BOTTOM_ITEMS.length;
+      // Deterministic message selection based on slot
+      currentTopIndex = slot % TOP_BOTTOM_ITEMS.length;
+      currentBottomIndex = (slot + 1) % TOP_BOTTOM_ITEMS.length;
 
       document.getElementById("top-message").innerHTML =
         TOP_BOTTOM_ITEMS[currentTopIndex].text;
@@ -230,11 +224,10 @@
 
     // ========= UPDATE ONLY ONE MAIN AREA =========
     function updateOneMessage() {
-      const rng = currentRng();
+      const { rng } = currentRng();
       const which = randInt(rng, 2); // 0 = top, 1 = bottom
 
       if (which === 0) {
-        // update TOP, ensuring it's not equal to bottom
         let newTop = randInt(rng, TOP_BOTTOM_ITEMS.length);
         if (newTop === currentBottomIndex) {
           newTop = (newTop + 1) % TOP_BOTTOM_ITEMS.length;
@@ -242,10 +235,8 @@
         currentTopIndex = newTop;
 
         document.getElementById("top-message").innerHTML =
-          TOP_BOTTOM_ITEMS[currentTopIndex].text;
-
+          TOP_BOTTOM_ITEMS[newTop].text;
       } else {
-        // update BOTTOM, ensuring it's not equal to top
         let newBottom = randInt(rng, TOP_BOTTOM_ITEMS.length);
         if (newBottom === currentTopIndex) {
           newBottom = (newBottom + 1) % TOP_BOTTOM_ITEMS.length;
@@ -253,12 +244,11 @@
         currentBottomIndex = newBottom;
 
         document.getElementById("bottom-message").innerHTML =
-          TOP_BOTTOM_ITEMS[currentBottomIndex].text;
+          TOP_BOTTOM_ITEMS[newBottom].text;
       }
 
       updateBottomBar(rng);
     }
-
 
     // ========= SYNCHRONIZED TIMER =========
     function scheduleNextUpdate() {

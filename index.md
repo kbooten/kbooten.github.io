@@ -3,7 +3,7 @@
 
 * [Article on "Word Gyms" in CRITICAL AI #2](https://read.dukeupress.edu/critical-ai/article/doi/10.1215/2834703X-11205189/390865/Build-Word-Gyms-Not-Word-Factories?guestAccessKey=494190cc-59d2-43d2-bdff-6b162571ceac){target="_blank"}
 
-* [Poems in special issue of MICHIGAN QUARTERLY REVIEW](https://sites.lsa.umich.edu/mqr/current-issue-fall-2025/){target="_blank"}
+* [Poems in MICHIGAN QUARTERLY REVIEW's "special issue on computer-generated text"](https://sites.lsa.umich.edu/mqr/current-issue-fall-2025/){target="_blank"}
 
 * [Poems injected with allusions in BLACKBOX MANIFOLD #31](https://blackboxmanifold.sites.sheffield.ac.uk/issues/issue-31/kylebootenbm31){target="_blank"}
 

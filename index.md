@@ -5,6 +5,8 @@
 
 * [Poems in MICHIGAN QUARTERLY REVIEW's "special issue on computer-generated text"](https://sites.lsa.umich.edu/mqr/current-issue-fall-2025/){target="_blank"}
 
+* [Speculative essay imagining alternative scholarly metrics in CRITICAL INFRASTRUCTURE STUDIES AND DIGITAL HUMANITIES.](https://www.upress.umn.edu/9781517916084/critical-infrastructure-studies-and-digital-humanities/){target="_blank"}
+
 * [Poems injected with allusions in BLACKBOX MANIFOLD #31](https://blackboxmanifold.sites.sheffield.ac.uk/issues/issue-31/kylebootenbm31){target="_blank"}
 
 <!-- * Two examples of [noöhacking](noohacking.html) in TAPER #12 (TOOLS)

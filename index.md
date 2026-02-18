@@ -1,11 +1,11 @@
 
 * [New book: GYMS (dispersed holdings 2025)](gymsbook.html)
 
-* [Article on "Word Gyms" in CRITICAL AI #2](https://read.dukeupress.edu/critical-ai/article/doi/10.1215/2834703X-11205189/390865/Build-Word-Gyms-Not-Word-Factories?guestAccessKey=494190cc-59d2-43d2-bdff-6b162571ceac){target="_blank"}
+* [Essay on "Word Gyms" in CRITICAL AI #2](https://read.dukeupress.edu/critical-ai/article/doi/10.1215/2834703X-11205189/390865/Build-Word-Gyms-Not-Word-Factories?guestAccessKey=494190cc-59d2-43d2-bdff-6b162571ceac){target="_blank"}
 
 * [Poems in MICHIGAN QUARTERLY REVIEW's "special issue on computer-generated text"](https://sites.lsa.umich.edu/mqr/current-issue-fall-2025/){target="_blank"}
 
-* [Speculative essay imagining alternative scholarly metrics in CRITICAL INFRASTRUCTURE STUDIES AND DIGITAL HUMANITIES.](https://www.upress.umn.edu/9781517916084/critical-infrastructure-studies-and-digital-humanities/){target="_blank"}
+* [Speculative essay imagining alternative scholarly metrics in CRITICAL INFRASTRUCTURE STUDIES AND DIGITAL HUMANITIES (U of Minnesota Press)](https://www.upress.umn.edu/9781517916084/critical-infrastructure-studies-and-digital-humanities/){target="_blank"}
 
 * [Poems injected with allusions in BLACKBOX MANIFOLD #31](https://blackboxmanifold.sites.sheffield.ac.uk/issues/issue-31/kylebootenbm31){target="_blank"}
 
@@ -13,7 +13,7 @@
     - [FloraNote, a garden-like note-taking app where notes must be periodically weeded](https://taper.badquar.to/12/floranote.html){target="_blank"}
     - [Yearlong Meditation App](https://taper.badquar.to/12/yearlong_meditation_app.html){target="_blank"} -->
 
-* "Google Hyperdrive," a small generator of interesting Google queries, in [RUN RUN RUN (BAD QUARTO)](https://badquar.to/publications/run_run_run.html){target="_blank"}
+* ["Google Hyperdrive," a small generator of interesting Google queries, in RUN RUN RUN (Bad Quarto)](https://badquar.to/publications/run_run_run.html){target="_blank"}
     * [code](resources/google_hyperdrive.py){target="_blank"}
 
 * [A linguistic exercise in THE VIRTUAL SENTENCE (CABINET 2024)](https://www.cabinetmagazine.org/books/the_virtual_sentence.php){target="_blank"}
@@ -22,7 +22,7 @@
 
 * [Paper on a writing-workshop simulator at XCOAX 2023](https://2023.xcoax.org/pdf/booten.pdf){target="_blank"}
 
-* "Leaping Loom," a small computer-generated poetic form, in [OUR GENERATION (BAD QUARTO)](https://badquar.to/publications/our_generation.html){target="_blank"}
+* ["Leaping Loom," a small computer-generated poetic form, in OUR GENERATION (Bad Quarto)](https://badquar.to/publications/our_generation.html){target="_blank"}
     * [code](resources/leaping_loom.py){target="_blank"}
 
 * [Poems written with a creative writing workshop simulator in BLACKBOX MANIFOLD #28](https://blackboxmanifold.sites.sheffield.ac.uk/issues/issues-21-28/issue-28){target="_blank"}
